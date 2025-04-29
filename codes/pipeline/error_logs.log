@@ -1,0 +1,268 @@
+{
+    "tool": "web_scrape",
+    "error_message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "timestamp": "2024-12-06T09:19:44.107161",
+    "additional info": {
+        "url": "https://www.truistsecurities.com/content/dam/truist-securities/us/en/documents/disclosures/tsi-semi-annual-statement-of-financial-condition-12-31-2023.pdf"
+    }
+}
+{
+    "tool": "get_basic_financials",
+    "error_message": "FinnhubAPIException(status_code: 403): You don't have access to this resource.",
+    "timestamp": "2024-12-06T09:29:36.608773",
+    "additional info": {
+        "query": "JIOFIN.NS"
+    }
+}
+{
+    "tool": "get_Indian_kanoon",
+    "error_message": "list index out of range",
+    "timestamp": "2024-12-06T12:03:04.413915",
+    "additional info": {
+        "query": "regulatory framework mergers and acquisitions India compliance Jio Airtel"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "500 Server Error: Internal Server Error for url: http://35.184.195.118:3000/https://www.businesstoday.in/technology/news/story/reliance-jio-airtel-drive-5g-adoption-in-india-but-user-satisfaction-remains-mixed-survey-450010-2024-10-15",
+    "timestamp": "2024-12-06T12:03:55.705753",
+    "additional info": {
+        "url": "https://www.businesstoday.in/technology/news/story/reliance-jio-airtel-drive-5g-adoption-in-india-but-user-satisfaction-remains-mixed-survey-450010-2024-10-15"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "timestamp": "2024-12-06T12:03:55.734122",
+    "additional info": {
+        "url": "https://tradebrains.in/who-will-win-the-indian-telecom-war-jio-airtel-vodafone-or-bsnl/"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.ibef.org/industry/indian-telecommunications-industry-analysis-presentation (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f00546d1d90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+    "timestamp": "2024-12-06T12:03:56.042361",
+    "additional info": {
+        "url": "https://www.ibef.org/industry/indian-telecommunications-industry-analysis-presentation"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "timestamp": "2024-12-06T12:05:48.661279",
+    "additional info": {
+        "url": "https://visiblealpha.com/blog/indias-telecom-landscape-jios-rise-airtels-arpu-surge-and-vis-downtrend/"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.businesstoday.in/technology/news/story/reliance-jio-airtel-drive-5g-adoption-in-india-but-user-satisfaction-remains-mixed-survey-450010-2024-10-15 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f00570937d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+    "timestamp": "2024-12-06T12:05:49.826486",
+    "additional info": {
+        "url": "https://www.businesstoday.in/technology/news/story/reliance-jio-airtel-drive-5g-adoption-in-india-but-user-satisfaction-remains-mixed-survey-450010-2024-10-15"
+    }
+}
+{
+    "tool": "tavily_web_search",
+    "error_message": "'NoneType' object has no attribute 'status_code'",
+    "timestamp": "2024-12-06T12:16:59.345069",
+    "additional info": {
+        "query": "Indian telecommunications market analysis Jio Airtel merger December 2024"
+    }
+}
+{
+    "tool": "tavily_web_search",
+    "error_message": "'NoneType' object has no attribute 'status_code'",
+    "timestamp": "2024-12-06T12:16:59.364954",
+    "additional info": {
+        "query": "Jio Airtel merger organized opposition advocacy groups political factions December 2024"
+    }
+}
+{
+    "tool": "get_sec_filings",
+    "error_message": "EntityFilings.filter() got an unexpected keyword argument 'ticker'",
+    "timestamp": "2024-12-06T16:44:31.302481",
+    "additional info": {
+        "ticker": "CSGP",
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-06",
+        "form": "10-K"
+    }
+}
+{
+    "tool": "get_sec_filings",
+    "error_message": "cannot access local variable 'filing' where it is not associated with a value",
+    "timestamp": "2024-12-06T16:44:31.307001",
+    "additional info": {
+        "ticker": "CSGP",
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-06",
+        "form": "10-K"
+    }
+}
+{
+    "tool": "get_sec_filings",
+    "error_message": "EntityFilings.filter() got an unexpected keyword argument 'ticker'",
+    "timestamp": "2024-12-06T16:44:31.741967",
+    "additional info": {
+        "ticker": "LOOP",
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-06",
+        "form": "10-K"
+    }
+}
+{
+    "tool": "get_sec_filings",
+    "error_message": "cannot access local variable 'filing' where it is not associated with a value",
+    "timestamp": "2024-12-06T16:44:31.747505",
+    "additional info": {
+        "ticker": "LOOP",
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-06",
+        "form": "10-K"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://stockinvest.us/stock/LOOP.L (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fed64211310>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T16:47:33.786452",
+    "additional info": {
+        "url": "https://stockinvest.us/stock/LOOP.L"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.similarweb.com/company/loopnet.com/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fed64026910>: Failed to establish a new connection: [Errno 113] No route to host'))",
+    "timestamp": "2024-12-06T16:47:55.596431",
+    "additional info": {
+        "url": "https://www.similarweb.com/company/loopnet.com/"
+    }
+}
+{
+    "tool": "tavily_web_search",
+    "error_message": "string indices must be integers, not 'str'",
+    "timestamp": "2024-12-06T16:48:07.757771",
+    "additional info": {
+        "query": "CoStar Group Inc legal issues 2024"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://grandtournation.com/motorsports/formula-1/ferraris-bold-strategy-for-2024-a-complete-car-overhaul-to-reclaim-f1-glory/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc9a5765f10>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T16:54:04.609624",
+    "additional info": {
+        "url": "https://grandtournation.com/motorsports/formula-1/ferraris-bold-strategy-for-2024-a-complete-car-overhaul-to-reclaim-f1-glory/"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.researchgate.net/publication/380098852_Tesla's_International_Business_Strategy (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc9a58b7690>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T16:54:04.610073",
+    "additional info": {
+        "url": "https://www.researchgate.net/publication/380098852_Tesla's_International_Business_Strategy"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.fiaformulae.com/en/news/487147 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc9a5764910>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T16:54:06.316436",
+    "additional info": {
+        "url": "https://www.fiaformulae.com/en/news/487147"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.morningstar.com/company-reports/1215848-teslas-strategic-focus-shifts-from-growth-to-development-of-affordable-vehicle-and-cost-reductions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc9a575a490>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T16:56:17.732875",
+    "additional info": {
+        "url": "https://www.morningstar.com/company-reports/1215848-teslas-strategic-focus-shifts-from-growth-to-development-of-affordable-vehicle-and-cost-reductions"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.formula1.com/en/latest/article/from-power-unit-usage-to-promotional-events-8-rule-changes-you-need-to-know.3K9yKq5H9VZlJCr4HTua6i (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc9a590d390>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T16:56:17.733323",
+    "additional info": {
+        "url": "https://www.formula1.com/en/latest/article/from-power-unit-usage-to-promotional-events-8-rule-changes-you-need-to-know.3K9yKq5H9VZlJCr4HTua6i"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.racefans.net/2024/04/25/formula-e-unveils-200mph-4wd-gen3-evo-boasting-0-60-time-30-quicker-than-f1/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc9a578af10>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T16:56:19.436866",
+    "additional info": {
+        "url": "https://www.racefans.net/2024/04/25/formula-e-unveils-200mph-4wd-gen3-evo-boasting-0-60-time-30-quicker-than-f1/"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.fitchratings.com/entity/united-airlines-inc-80091049 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff3d67870d0>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T19:50:45.008584",
+    "additional info": {
+        "url": "https://www.fitchratings.com/entity/united-airlines-inc-80091049"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.fitchratings.com/research/corporate-finance/fitch-affirms-continental-airlines-at-b-outlook-revised-to-positive-10-09-2010 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff3d675b650>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T19:50:46.715239",
+    "additional info": {
+        "url": "https://www.fitchratings.com/research/corporate-finance/fitch-affirms-continental-airlines-at-b-outlook-revised-to-positive-10-09-2010"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.macrotrends.net/stocks/charts/UAL/united-airlines-holdings-inc/long-term-debt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff3d4663250>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T19:51:25.969127",
+    "additional info": {
+        "url": "https://www.macrotrends.net/stocks/charts/UAL/united-airlines-holdings-inc/long-term-debt"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.fitchratings.com/research/corporate-finance/united-airlines-holdings-inc-27-02-2024 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff3d4661890>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T19:52:58.128784",
+    "additional info": {
+        "url": "https://www.fitchratings.com/research/corporate-finance/united-airlines-holdings-inc-27-02-2024"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.fitchratings.com/research/corporate-finance/fitch-affirms-continental-airlines-at-b-after-merger-announcement-outlook-stable-03-05-2010 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff3d467add0>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T19:52:59.835469",
+    "additional info": {
+        "url": "https://www.fitchratings.com/research/corporate-finance/fitch-affirms-continental-airlines-at-b-after-merger-announcement-outlook-stable-03-05-2010"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.macrotrends.net/stocks/charts/UAL/united-airlines-holdings-inc/net-long-term-debt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff3d46806d0>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T19:53:39.088506",
+    "additional info": {
+        "url": "https://www.macrotrends.net/stocks/charts/UAL/united-airlines-holdings-inc/net-long-term-debt"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff3d469e750>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T19:55:23.198581",
+    "additional info": {
+        "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.fitchratings.com/entity/united-airlines-inc-80091049 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff3d469c210>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T19:57:36.315211",
+    "additional info": {
+        "url": "https://www.fitchratings.com/entity/united-airlines-inc-80091049"
+    }
+}
+{
+    "tool": "web_scrape",
+    "error_message": "HTTPConnectionPool(host='35.184.195.118', port=3000): Max retries exceeded with url: /https://www.continental.com/en/investors/debt-and-rating/continentals-credit-rating/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff3d46dfd10>, 'Connection to 35.184.195.118 timed out. (connect timeout=None)'))",
+    "timestamp": "2024-12-06T19:59:54.555188",
+    "additional info": {
+        "url": "https://www.continental.com/en/investors/debt-and-rating/continentals-credit-rating/"
+    }
+}

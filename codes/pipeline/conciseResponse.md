@@ -1,0 +1,1 @@
+The stock price of Apple (AAPL) on December 5, 2024, was $243.99.

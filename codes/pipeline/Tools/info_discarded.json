@@ -1,0 +1,117 @@
+[
+    {
+    "name": "query_documents",
+    "docstring": "Query documents using a Retrieval-Augmented Generation (RAG) endpoint. This should be the first choice before doing web search. If this fails or returns unsatisfactory results, then use web search for the same query.",
+    "parameters": {
+        "prompt": "str"
+    },
+    "output": {
+        "type": "Dict",
+        "description": "The JSON response from the RAG endpoint, containing the retrieved information and generated answer."
+    }
+},
+
+{
+    "name": "query_documents",
+    "docstring": "Query documents using a Retrieval-Augmented Generation (RAG) endpoint. This should be the first choice before doing web search. If this fails or returns unsatisfactory results, then use web search for the same query.",
+    "parameters": {
+        "prompt": "str"
+    },
+    "output": {
+        "type": "Dict",
+        "description": "The JSON response from the RAG endpoint, containing the retrieved information and generated answer."
+    }
+},
+{
+    "name": "break_query_into_subqueries",
+    "docstring": "Breaks down a complex query into simple subqueries.",
+    "parameters": {
+        "query": "str"
+    },
+    "output": {
+        "type": "str",
+        "description": "A list of subqueries formatted as JSON in a point-wise manner."
+    }
+},
+{
+    "name": "get_basic_financials_history",
+    "docstring": "Get historical basic financials for a company using Finnhub API.",
+    "parameters": {
+        "symbol": "str",
+        "freq": "str",
+        "start_date": "str",
+        "end_date": "str",
+        "selected_columns": "list"
+    },
+    "output": {
+        "type": "dict",
+        "description": "Historical financial data for the company."
+    }
+},
+{
+    "name": "get_basic_financials_history",
+    "docstring": "Get historical basic financials for a company using Finnhub API.",
+    "parameters": {
+        "symbol": "str",
+        "freq": "str",
+        "start_date": "str",
+        "end_date": "str",
+        "selected_columns": "list"
+    },
+    "output": {
+        "type": "dict",
+        "description": "Historical financial data for the company."
+    }
+},
+
+{
+    "name": "get_basic_financials",
+    "docstring": "Get latest basic financials for a company using Finnhub API.",
+    "parameters": {
+        "symbol": "str",
+        "selected_columns": "list"
+    },
+    "output": {
+        "type": "str",
+        "description": "JSON string containing the latest financial metrics."
+    }
+},
+{
+  "name": "get_and_download_annual_report",
+  "docstring": "Get the annual report URL and download the PDF for a given company ticker and financial year.",
+  "parameters": {
+    "query": "str",
+    "ticker": "str",
+    "financial_year": "str"
+  },
+  "output": {
+    "type": "str",
+    "description": "Path to the saved PDF file if successful, or an error message."
+  }
+},
+{
+    "name": "get_company_news",
+    "docstring": "Retrieve market news related to a designated company using Finnhub API.",
+    "parameters": {
+        "symbol": "str",
+        "start_date": "str",
+        "end_date": "str",
+        "max_news_num": "int"
+    },
+    "output": {
+        "type": "dict",
+        "description": "A dictionary containing company news data."
+    }
+},
+{
+    "name": "get_company_profile",
+    "docstring": "Get a company's profile information using the Finnhub API.",
+    "parameters": {
+        "symbol": "str"
+    },
+    "output": {
+        "type": "str",
+        "description": "A formatted string containing company profile information."
+    }
+}
+]

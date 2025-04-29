@@ -1,0 +1,60 @@
+defaultdict(<class 'list'>, {0: [ToolMessage(content='Error: UnboundLocalError("cannot access local variable \'company\' where it is not associated with a value")\n Please fix your mistakes.', name='get_sec_filings', tool_call_id='call_kG0UNJDUexgsXqMTGOAwg4XO', status='error'), ToolMessage(content='Error: UnboundLocalError("cannot access local variable \'company\' where it is not associated with a value")\n Please fix your mistakes.', name='get_sec_filings', tool_call_id='call_ixKIPxu2R5F7kUfRIUT7bkS0', status='error'), ToolMessage(content='Error: UnboundLocalError("cannot access local variable \'company\' where it is not associated with a value")\n Please fix your mistakes.', name='get_sec_filings', tool_call_id='call_IXj2500pyHonjoHpMSsp7frn', status='error'), ToolMessage(content='Error: UnboundLocalError("cannot access local variable \'company\' where it is not associated with a value")\n Please fix your mistakes.', name='get_sec_filings', tool_call_id='call_aueGHR01IkjTmIOc1zGlsKIN', status='error')]})
+
+
+
+defaultdict(<class 'list'>, {0: [ToolMessage(content="Error: 1 validation error for get_sec_filings\nquery\n  Field required [type=missing, input_value={'ticker': 'CSGP', 'start...-12-02', 'form': '10-Q'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/missing\n Please fix your mistakes.", name='get_sec_filings', tool_call_id='call_7TqbMIY8DNLNret1YWkOZYqB', status='error'), ToolMessage(content="Error: 1 validation error for get_sec_filings\nquery\n  Field required [type=missing, input_value={'ticker': 'CSGP', 'start...-12-02', 'form': '10-K'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/missing\n Please fix your mistakes.", name='get_sec_filings', tool_call_id='call_skWQYEwCIKtGpi4uYA4citC0', status='error'), ToolMessage(content="Error: 1 validation error for get_sec_filings\nquery\n  Field required [type=missing, input_value={'ticker': 'LOOP', 'start...-12-02', 'form': '10-Q'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/missing\n Please fix your mistakes.", name='get_sec_filings', tool_call_id='call_2ZIWMVAwa7nam1Fousd71ZVl', status='error'), ToolMessage(content="Error: 1 validation error for get_sec_filings\nquery\n  Field required [type=missing, input_value={'ticker': 'LOOP', 'start...-12-02', 'form': '10-K'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/missing\n Please fix your mistakes.", name='get_sec_filings', tool_call_id='call_UC5aap0ANpUpF92NkyzL02GU', status='error')]})
+
+
+
+defaultdict(<class 'list'>, {})
+
+
+
+defaultdict(<class 'list'>, {})
+
+
+
+defaultdict(<class 'list'>, {0: [ToolMessage(content='', name='web_search', tool_call_id='call_f0q1S3ceGs1jjBBZCXHqyKXe'), ToolMessage(content='', name='web_search', tool_call_id='call_DJ3P1hAjh9A3LV1W5WXsuzeT')]})
+
+
+
+defaultdict(<class 'list'>, {0: [ToolMessage(content='', name='web_search', tool_call_id='call_uLzbx0QX9OdxOCkTXHRSzmpF')]})
+
+
+
+defaultdict(<class 'list'>, {0: [ToolMessage(content='', name='web_search', tool_call_id='call_8APE6LYABmWVospwnmUnS1SF')]})
+
+
+
+defaultdict(<class 'list'>, {0: [ToolMessage(content='', name='web_search', tool_call_id='call_sXpgxiJVx8t45JAINYcleH12')]})
+
+
+
+defaultdict(<class 'list'>, {0: [ToolMessage(content='', name='web_search', tool_call_id='call_gh4sV2JSNIhBeKvZ0AkYkTxm'), ToolMessage(content='', name='web_search', tool_call_id='call_iK0PtkCFC2K7ActT4Ckuwbt6'), ToolMessage(content='', name='web_search', tool_call_id='call_AXz6VYCTxdZ1lkbnq6QYCpuA')]})
+
+
+
+defaultdict(<class 'list'>, {0: [ToolMessage(content='', name='web_search', tool_call_id='call_asqV2QgBd1Aw9CULrB0MLwTm'), ToolMessage(content='', name='web_search', tool_call_id='call_PhsGoy2JiABwnUDMH88BxMDl'), ToolMessage(content='', name='web_search', tool_call_id='call_8vB2cP2F5Rg7O0aBC4w1Fzdb')]})
+
+
+
+defaultdict(<class 'list'>, {})
+
+
+
+defaultdict(<class 'list'>, {})
+
+
+
+defaultdict(<class 'list'>, {})
+
+
+
+defaultdict(<class 'list'>, {0: [ToolMessage(content='', name='get_us_case_law', tool_call_id='call_8bqatR53azHXqTZDVQ7aAedQ'), ToolMessage(content='', name='get_us_case_law', tool_call_id='call_9JHcqpiQqpyUCwleyqfXiHjc')]})
+
+
+
+defaultdict(<class 'list'>, {0: [ToolMessage(content='', name='get_us_case_law', tool_call_id='call_tScZy9RjeArcPMU0IzXHBJRY'), ToolMessage(content='', name='get_us_case_law', tool_call_id='call_foxUllYRQw7GZQS4iczby2g6')]})
+
+
+

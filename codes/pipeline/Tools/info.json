@@ -1,0 +1,186 @@
+[
+    {
+        "name": "get_stock_data",
+        "docstring": "Retrieve stock price data for designated ticker symbol.",
+        "parameters": {
+            "symbol": "str",
+            "start_date": "str",
+            "end_date": "str"
+        },
+        "output": {
+            "type": "DataFrame",
+            "description": "Stock price data for the given period."
+        }
+    },
+    {
+        "name": "get_stock_info",
+        "docstring": "Fetches and returns the latest stock information.",
+        "parameters": {
+            "symbol": "str"
+        },
+        "output": {
+            "type": "dict",
+            "description": "Latest stock information."
+        }
+    },
+    {
+        "name": "get_company_info",
+        "docstring": "Fetches and returns company information like Company Name, Industry, Sector, Country, Website",
+        "parameters": {
+            "symbol": "str"
+        },
+        "output": {
+            "type": "dict",
+            "description": "Company details such as name, industry, and website."
+        }
+    },
+    {
+        "name": "get_stock_dividends",
+        "docstring": "Fetches and returns the latest dividends data.",
+        "parameters": {
+            "symbol": "str"
+        },
+        "output": {
+            "type": "DataFrame",
+            "description": "DataFrame containing dividends information."
+        }
+    },
+    {
+        "name": "get_income_stmt",
+        "docstring": "Fetches and returns the latest income statement of the company.",
+        "parameters": {
+            "symbol": "str"
+        },
+        "output": {
+            "type": "DataFrame",
+            "description": "Latest income statement."
+        }
+    },
+    {
+        "name": "get_balance_sheet",
+        "docstring": "Fetches and returns the latest balance sheet of the company.",
+        "parameters": {
+            "symbol": "str"
+        },
+        "output": {
+            "type": "DataFrame",
+            "description": "Latest balance sheet data."
+        }
+    },
+    {
+        "name": "get_cash_flow",
+        "docstring": "Fetches and returns the latest cash flow statement of the company.",
+        "parameters": {
+            "symbol": "str"
+        },
+        "output": {
+            "type": "DataFrame",
+            "description": "Cash flow data of the company."
+        }
+    },
+    {
+        "name": "get_analyst_recommendations",
+        "docstring": "Fetches the latest analyst recommendations and returns the most common recommendation and its count.",
+        "parameters": {
+            "symbol": "str"
+        },
+        "output": {
+            "type": "tuple",
+            "description": "Most common analyst recommendation and its count."
+        }
+    },
+    {
+        "name": "case_law",
+        "docstring": "Provides legal research for the given queries, for instance case laws, precedents, legal documents etc.",
+        "parameters": {
+            "query": "str"
+        },
+        "output": {
+            "type": "Tuple[str, str]",
+            "description": "A tuple containing the links and legal content"
+        }
+    },
+    {
+        "name": "get_indian_kanoon",
+        "docstring": "Retrieves Indian LEGAL data and CASE LAWs from Indian Kanoon based on the query",
+        "parameters": {
+            "query": "str"
+        },
+        "output": {
+            "type": "tuple",
+            "description": "A tuple containing the title (str), date (str), and document text (str)."
+        }
+    },
+    {
+        "name": "get_sec_filings",
+        "docstring": "Query SEC to retrieve any filings as required to find answers you generally find in filings. Filings published between start_date and end_date will be retrieved.",
+        "parameters": {
+        "query": "str",
+        "ticker": "str",
+        "start_date": "str",
+        "end_date": "str",
+        "form": "str"
+        },
+        "output": {
+        "type": "str",
+        "description": "SEC filing to be sent to RAG endpoint for retrieval."
+        }
+    },
+    {
+        "name": "web_search",
+        "docstring": "If you do not know about an entity, perform a web search using the Google search engine. This should be followed by web scraping the most relevant page to get a detailed response.",
+        "parameters": {
+            "query": "str"
+        },
+        "output": {
+            "type": "List[Dict]",
+            "description": "A list of search results containing relevant information about the query."
+        }
+    },
+    {
+        "name": "get_wikipedia_summary",
+        "docstring": "Fetches a summary from Wikipedia based on a search query.",
+        "parameters": {
+            "query": "str"
+        },
+        "output": {
+            "type": "str",
+            "description": "Summary of the Wikipedia page."
+        }
+    },
+    {
+        "name": "get_discord",
+        "docstring": "Fetch and process messages from a Discord channel.",
+        "parameters": {
+            "channel_id": "str"
+        },
+        "output": {
+            "type": "list",
+            "description": "Formatted message data."
+        }
+    },
+    {
+        "name": "gmail_search_tool",
+        "docstring": "Fetches and retrieves Gmail emails matching the given query.",
+        "parameters": {
+            "query": "str",
+            "top_n": "int"
+        },
+        "output": {
+            "type": "str",
+            "description": "Formatted string containing email results."
+        }
+    },
+    {
+        "name": "get_reddit_search",
+        "docstring": "Search for Reddit posts based on a query and fetch the content of the first result.",
+        "parameters": {
+            "query": "str",
+            "limit": "int"
+        },
+        "output": {
+            "type": "dict",
+            "description": "Content and metadata of Reddit posts."
+        }
+    }
+]
