@@ -1,0 +1,228 @@
+Trulia Inc (TRLA) financial statements
+===============           
+
+![Image 1](https://mc.yandex.ru/watch/7502251)
+
+[Online Financial Analysis](https://www.readyratios.com/)
+
+###### Financial Reporting  
+and Analysis Software
+
+☰
+
+*   [IFRT](https://www.readyratios.com/ifrt/)
+*   [ACCA](https://www.readyratios.com/articles/)
+*   [IFRS DG](https://www.readyratios.com/ifrs/)
+
+*   [FAQ](https://www.readyratios.com/faq/)
+*   [Manuals](https://www.readyratios.com/manual/)
+*   [Contacts](https://www.readyratios.com/info/contacts.php)
+
+*   [Financial Analysis](https://www.readyratios.com/)
+    
+    *   Our products:
+    *   [Financial Analysis](https://www.readyratios.com/ "Financial Analysis")
+    *   [Reporting Tool](https://www.readyratios.com/ifrt/ "Reporting Tool")
+    *   [US Industry Benchmarking](https://www.readyratios.com/sec/ "Listed companies analysis")
+    *   [Russian Entites Profiles](https://www.readyratios.com/profile/ "Database for all Russian companies")
+    
+*   [Features](https://www.readyratios.com/features/)
+*   [Start!](https://www.readyratios.com/start/)
+*   [Pricing](https://www.readyratios.com/buy/)
+*   [News](https://www.readyratios.com/news/)
+*   [IFRS](https://www.readyratios.com/ifrt/)
+*   [US GAAP](https://www.readyratios.com/usgaap/)
+*   [Reference](https://www.readyratios.com/reference/)
+*   [Forum](https://www.readyratios.com/community/)
+*   [Support](https://www.readyratios.com/support/)
+*    [](https://www.readyratios.com/relax/)
+
+ 
+
+[Sign up](https://www.readyratios.com/auth/?register=yes) or  [](https://www.readyratios.com/auth/?login=yes "Log in")
+
+[Listed Companies' Analysis](https://www.readyratios.com/sec/) | [Ranking](https://www.readyratios.com/sec/rating/) | [Industry Ratios](https://www.readyratios.com/sec/industry/) | [Ratios (TRLA)](https://www.readyratios.com/sec/TRLA_trulia-inc) | Financials (TRLA)
+
+or manually [enter accounting data](https://www.readyratios.com/sec/manual/input/) for industry benchmarking
+
+**Trulia Inc (TRLA)** Financial Statements (2024 and earlier)
+=============================================================
+
+Company Profile
+---------------
+
+<table id="company-profile" class="table"><tbody><tr><td class="profile">Business Address</td><td>535 MISSION STREET<br>SAN FRANCISCO, CA 94105<br></td></tr><tr><td class="profile">State of Incorp.</td><td>DE</td></tr><tr><td class="profile">Fiscal Year End</td><td>December 31</td></tr><tr><td class="profile">Industry (SIC)</td><td>7374 - Computer Processing and Data Preparation and Processing Services (<a href="/sec/industry/7374/">benchmarking</a>)</td></tr><tr><td class="profile">More info</td><td id="additional-data"><a href="#" class="btn btn-success finanaliz-link" target="_blank">Complete Financial Analysis</a> <a href="/sec/TRLA_trulia-inc" class="btn btn-primary" target="_blank">Financial Benchmarking</a></td></tr></tbody></table>
+
+Balance Sheet (Statement of Financial Position) ($ in thousands)
+
+[Annual](https://www.readyratios.com/reports/TRLA_trulia-inc) | [Quarterly](https://www.readyratios.com/reports/TRLA_trulia-inc?type=quarterly)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 
+ | 12/31/2014  
+ | 12/31/2013  
+ | 12/31/2012  
+ |
+| --- | --- | --- | --- |
+|  | ASSETS |
+|  | Current Assets |
+|  | Cash, cash equivalents, and short-term investments |  | 225,597 | 100,017 |
+|  | Cash and cash equivalents |  | 225,597 | 100,017 |
+|  | Receivables |  | 11,697 | 6,095 |
+|  | Prepaid expense and other current assets | ✕ | ✕ | 1,413 |
+|  | Other undisclosed current assets |  | 12,272 |   |
+|  | Total current assets: |  | 249,566 | 107,525 |
+|  | Noncurrent Assets |
+|  | Property, plant and equipment |  | 22,289 | 7,069 |
+|  | Intangible assets, net (including goodwill) |  | 373,792 | 2,155 |
+|  | Goodwill |  | 255,904 | 2,155 |
+|  | Intangible assets, net (excluding goodwill) |  | 117,888 |   |
+|  | Restricted cash and investments |  |   |   |
+|  | Other noncurrent assets |  | 8,173 | ✕ |
+|  | Prepaid expense and other noncurrent assets | ✕ | ✕ | 1,830 |
+|  | Other undisclosed noncurrent assets |   | 1,589 | 385 |
+|  | Total noncurrent assets: |  | 405,843 | 11,439 |
+|  | TOTAL ASSETS: |  | 655,409 | 118,964 |
+|  | LIABILITIES AND EQUITY |
+|  | Liabilities |
+|  | Current Liabilities |
+|  | Accounts payable and accrued liabilities |  | 27,497 | 8,387 |
+|  | Taxes payable |  | 2,355 | 446 |
+|  | Employee-related liabilities |  | 10,863 | 4,500 |
+|  | Accounts payable |  | 3,018 | 525 |
+|  | Accrued liabilities |  | 11,261 | 2,916 |
+|  | Debt |  | 51 | 2,882 |
+|  | Restructuring reserve |  | ✕ | ✕ |
+|  | Other liabilities |   |   | 330 |
+|  | Deferred revenue and credits |  | 11,037 | 13,740 |
+|  | Other undisclosed current liabilities |  | (2,355) | (446) |
+|  | Total current liabilities: |  | 36,230 | 24,893 |
+|  | Noncurrent Liabilities |
+|  | Long-term debt and lease obligation |  | 230,084 | 7,110 |
+|  | Long-term debt, excluding current maturities |  | 230,000 | 7,094 |
+|  | Capital lease obligations |  | 84 | 16 |
+|  | Liabilities, other than long-term debt |  | 8,019 | 407 |
+|  | Deferred revenue and credits |  | 4,751 | 407 |
+|  | Deferred tax liabilities, net |  |   |   |
+|  | Other liabilities |  | 3,268 |   |
+|  | Other undisclosed noncurrent liabilities |  |   | 20 |
+|  | Total noncurrent liabilities: |  | 238,103 | 7,537 |
+|  | Total liabilities: |  | 274,333 | 32,430 |
+|  | Equity |
+|  | Equity, attributable to parent, including: |  | 381,076 | 86,534 |
+|  | Additional paid in capital |  | 445,960 | 133,659 |
+|  | Accumulated deficit |  | (64,884) |   |
+|  | Other undisclosed equity, attributable to parent |   |   | (47,125) |
+|  | Total equity: |  | 381,076 | 86,534 |
+|  | TOTAL LIABILITIES AND EQUITY: |  | 655,409 | 118,964 |
+
+  
+
+Income Statement (P&L) ($ in thousands)
+
+[Annual](https://www.readyratios.com/reports/TRLA_trulia-inc) | [Quarterly](https://www.readyratios.com/reports/TRLA_trulia-inc?type=quarterly)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 
+ | 12/31/2014  
+ | 12/31/2013  
+ | 12/31/2012  
+ |
+| --- | --- | --- | --- |
+|  | Revenues |  | 143,728 | 68,085 |
+|  | Cost of revenue |  | (51,538) | (26,503) |
+|  | Cost of goods and services sold |  | (34,612) | (20,199) |
+|  | Gross profit: |  | 92,190 | 41,582 |
+|  | Operating expenses |  | (116,333) | (51,101) |
+|  | Operating loss: |  | (24,143) | (9,519) |
+|  | Nonoperating income (expense) |  | 121 | 50 |
+|  | Investment income, nonoperating |   | 121 | 50 |
+|  | Other nonoperating expense |  |   |   |
+|  | Interest and debt expense |  | (1,248) | (1,016) |
+|  | Other undisclosed loss from continuing operations before equity method investments, income taxes |   |   | (369) |
+|  | Loss from continuing operations before income taxes: |  | (25,270) | (10,854) |
+|  | Income tax expense (benefit) |  | 7,511 | (67) |
+|  | Loss from continuing operations: |  | (17,759) | (10,921) |
+|  | Loss before gain (loss) on sale of properties: |  | (17,759) | (10,921) |
+|  | Other undisclosed net income |   |   | 21,842 |
+|  | Net income (loss): |  | (17,759) | 10,921 |
+|  | Other undisclosed net loss attributable to parent |   |   | (21,842) |
+|  | Net loss available to common stockholders, diluted: |  | (17,759) | (10,921) |
+
+Comprehensive Income ($ in thousands)
+
+[Annual](https://www.readyratios.com/reports/TRLA_trulia-inc) | [Quarterly](https://www.readyratios.com/reports/TRLA_trulia-inc?type=quarterly)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 
+ | 12/31/2014  
+ | 12/31/2013  
+ | 12/31/2012  
+ |
+| --- | --- | --- | --- |
+|  | Net income (loss): |  | (17,759) | 10,921 |
+|  | Other comprehensive loss |   | (17,759) | (10,921) |
+|  | Comprehensive loss, net of tax, attributable to parent: |  | (35,518) |   |
+
+Statements Sources
+------------------
+
+The financial statements are based on the Company's filings with the U.S. Securities and Exchange Commission ([SEC](https://www.sec.gov/)) through the Electronic Data Gathering, Analysis, and Retrieval system (EDGAR). The information is derived from the 10-K and 10-Q reports submitted to the SEC in XBRL (eXtensible Business Reporting Language) format and presented according to the US GAAP Taxonomy. Please review [the original filings](https://www.sec.gov/cgi-bin/browse-edgar?CIK=1349454&type=10-&owner=exclude&action=getcompany&Find=Search) for a more detailed information.
+
+ 
+
+Copyright © 2011–2024  [Audit IT](https://www.readyratios.com/info/contacts.php)
+
+*   [Site Map](https://www.readyratios.com/info/map.php)
+*   [Terms of Use](https://www.readyratios.com/info/terms.php)
+*   [Privacy Policy](https://www.readyratios.com/info/privacy.php)
+*   [About Us](https://www.readyratios.com/info/avdeev.php)
+*   [Contact Us](https://www.readyratios.com/info/contacts.php)
+
+### Login to ReadyRatios
+
+ 
+
+If you have a Facebook or Twitter account, you can use it to log in to ReadyRatios:
+
+[](javascript:void\(0\) "Twitter")[](javascript:void\(0\) "Google")
+
+[](javascript:void\(0\) "Intuit.com")
+
+   
+
+Enter your login:
+
+Enter your password:
+
+ Stay signed in
+
+Have you [forgotten](https://www.readyratios.com/auth/?forgot_password=yes&backurl=%2Freports%2FTRLA_trulia-inc) your password?
+
+Are you a [new user](https://www.readyratios.com/auth/?register=yes&backurl=%2Freports%2FTRLA_trulia-inc)?
+
+Login As
+
+You can log in if you are registered at one of these services:
+
+[**Twitter**](javascript:void\(0\))
+
+[**Google**](javascript:void\(0\))
+
+[**Intuit.com**](javascript:void\(0\))
+
+[](javascript:void\(0\))Use your Twitter.com profile to log in.
+
+[](javascript:void\(0\))Use your Google account to log in.
+
+[](javascript:void\(0\))Use your Intuit account to log in.
+
+This website uses cookies. Continued use of this website indicates you have read and understood our [Privacy & Cookies policy](https://www.readyratios.com/info/privacy.php) and agree to its terms.
+
+ACCEPT

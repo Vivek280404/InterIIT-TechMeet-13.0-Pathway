@@ -1,0 +1,321 @@
+Value creation and challenges of an international transaction The DaimlerChrysler merger - ScienceDirect
+===============
+
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S1057521999000204#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S1057521999000204#screen-reader-main-title)
+
+[![Image 2: Elsevier logo](https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
+
+*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
+
+*   Help
+    
+*   [Search](https://www.sciencedirect.com/search "Search")
+    
+
+[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1057521999000204&from=globalheader)
+
+[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1057521999000204)
+
+*   [Access through **your organization**](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS1057521999000204)
+*   [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S1057521999000204/purchase)
+
+Search ScienceDirect
+
+Article preview
+---------------
+
+*   [Abstract](https://www.sciencedirect.com/science/article/pii/S1057521999000204#preview-section-abstract)
+*   [Introduction](https://www.sciencedirect.com/science/article/pii/S1057521999000204#preview-section-introduction)
+*   [Section snippets](https://www.sciencedirect.com/science/article/pii/S1057521999000204#preview-section-snippets)
+*   [References (28)](https://www.sciencedirect.com/science/article/pii/S1057521999000204#preview-section-references)
+*   [Cited by (13)](https://www.sciencedirect.com/science/article/pii/S1057521999000204#preview-section-cited-by)
+
+[![Image 3: Elsevier](https://sdfestaticassets-us-east-1.sciencedirectassets.com/prod/c9de7eee62e9d871e59d1278c79700c602fc2cdc/image/elsevier-non-solus.png)](https://www.sciencedirect.com/journal/international-review-of-financial-analysis "Go to International Review of Financial Analysis on ScienceDirect")
+
+[International Review of Financial Analysis](https://www.sciencedirect.com/journal/international-review-of-financial-analysis "Go to International Review of Financial Analysis on ScienceDirect")
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Volume 9, Issue 1](https://www.sciencedirect.com/journal/international-review-of-financial-analysis/vol/9/issue/1 "Go to table of contents for this volume/issue"), February 2000, Pages 77-102
+
+[![Image 4: International Review of Financial Analysis](https://ars.els-cdn.com/content/image/1-s2.0-S1057521924X00083-cov150h.gif)](https://www.sciencedirect.com/journal/international-review-of-financial-analysis/vol/9/issue/1)
+
+Value creation and challenges of an international transaction The DaimlerChrysler merger
+========================================================================================
+
+Author links open overlay panelMatej Blas̆ko, Jeffry M. Netter, Joseph F. Sinkey Jr.
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+
+[https://doi.org/10.1016/S1057-5219(99)00020-4](https://doi.org/10.1016/S1057-5219/(99/)00020-4 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S1057521999000204&orderBeanReset=true)
+
+Abstract
+--------
+
+Globalization is a buzzword in international finance and economics. On May 6, 1998, in London, Daimler-Benz of Germany signed a [merger](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/merger "Learn more about merger from ScienceDirect's AI-generated Topic Pages") agreement with Chrysler Corporation of the United States. Using the DaimlerChrysler merger as a case study, this paper focuses on value creation and analysis of various issues in an international transaction. The market responded very favorably to this merger, and we review the potential sources of value creation in the merger as well as outline the steps undertaken to consummate the merger. We also consider an interesting question: Can a company truly be “global”? Differences in corporate culture, compensation policies, ownership structure, and the legal environment pose significant challenges to all mergers but especially international business combinations. Important post-merger events, such as the Standard & Poor's decision not to include DaimlerChrysler in the S&P500 Index and the clash of corporate cultures and compensation schemes, have presented major roadblocks to it becoming a truly global company.
+
+Introduction
+------------
+
+> The two companies are a perfect fit of two leaders in their respective markets. Both companies have dedicated and skilled workforces and successful products, but in different markets and different parts of the world. By combining and utilizing each other's strengths, we will have a pre-eminent strategic position in the global marketplace for the benefit of our customers. We will be able to exploit new markets, and we will improve return and value for our shareholders. This is a historic merger that will change the face of the automotive industry.
+> 
+> This is much more than a merger, today we are creating the world's leading automotive company for the 21st century. We are combining the two most innovative car companies in the world.
+> 
+> Jürgen Schrempp
+> 
+> Chairman of the Daimler-Benz Management Board
+
+On May 7, 1998, Daimler-Benz of Germany announced plans to merge with Chrysler Corporation in the largest international merger in history. Jürgen Schrempp of Daimler-Benz and Robert Eaton of Chrysler had signed the combination agreement the day before in London. The combined entity is called DaimlerChrysler AG and is incorporated under the jurisdiction of the Federal Republic of Germany. The company's stock (DCX) trades on all of the world's major stock exchanges, including New York, Frankfurt, London, and Tokyo, as well as on the other exchanges in the U.S., Germany, Austria, Canada, France, and Switzerland. In many respects, the DaimlerChrysler merger is shaping the future of the auto industry and has triggered consolidation in an industry plagued by overcapacity. Table 1 presents an overview of the auto industry, including rumors about mergers that are likely to follow the largest international merger ever.
+
+This article provides an overview of the important elements of the DaimlerChrysler merger and relates them to the empirical evidence on mergers.1 Specifically, this study analyzes potential sources of value creation and the evidence on whether value creation has occurred in the DaimlerChrysler merger. We also discuss specifically some of the important issues that must be taken into account in cross-border mergers and acquisitions. Differences in corporate culture, compensation policies, ownership structure, and legal environment may pose significant challenges to international business combinations.
+
+Section snippets
+----------------
+
+Motivations for mergers
+-----------------------
+
+According to Myers (1976), “Mergers are tricky; the benefits and costs of proposed deals are not always obvious.” In a Modigliani-Miller framework, if mergers do create value, they do so by changing tax liabilities, changing contracting costs, or changing investment incentives. If the size, timing, and riskiness of the combined future cash flows of the merged firms exceed the cash flows of the separate firms (“synergy”), the merger will be a positive net-present-value project. Grinblatt and
+
+Empirical evidence
+------------------
+
+The empirical evidence on mergers and acquisitions, while large, is not conclusive. Event-study evidence on large samples tends to find that, on average, in the short run around a merger announcement target shareholders benefit significantly from acquisitions, while bidder shareholders are unaffected or lose slightly.2 The net announcement
+
+Company profiles and the reasons for the DaimlerChrysler merger
+---------------------------------------------------------------
+
+Jürgen Schrempp, Chairman of Daimler-Benz Management Board, has been behind a dramatic turnaround at Daimler, transforming the firm into a competitive global powerhouse.3 On January 12, 1998, Schrempp visited Robert J. Eaton, Chairman and CEO of Chrysler Corporation, at an International
+
+Conflicts of interest
+---------------------
+
+As in most mergers, there are potential agency problems from manager's decisions on what actions to take in the merger:
+
+> In considering the recommendation of the Chrysler Board, stockholders of Chrysler should be aware that, as described below, certain members of Chrysler's management and the Chrysler Board may have interests in the Chrysler Merger that are different from, or in addition to, the interests of Chrysler stockholders generally, and that these interests may create potential conflicts
+
+Merger announcement effects
+---------------------------
+
+Table 4A documents the stock market reaction to the merger announcement for both Daimler-Benz and Chrysler, which are similar to the results from earlier studies of mergers. There was a 30.9% abnormal return for Chrysler's shares, and somewhat in contrast to large sample studies that find negative bidder returns, the shares of Daimler-Benz realized a positive excess return of 4.6%. The combined market capitalization of Daimler and Chrysler was $95.2 billion at the close of NYSE trading on May
+
+Valuation issues
+----------------
+
+In a stock swap merger, the exchange ratio must be determined. The exchange ratio may be determined according to the firms' book values, market values, sales, earnings, or some other characteristic. Table 6 illustrates the shares of former Daimler-Benz, Chrysler, and the combined entity based on these characteristics.
+
+One possible approach is to apportion the ownership rights to the former shareholders using the market values of the two companies the day before the merger announcement. As market
+
+Legal structure of the combination
+----------------------------------
+
+To achieve various goals, such as pooling of interests accounting, and compliance with certain regulations required a fairly complicated legal structure for the Daimler-Benz–Chrysler merger. Figure 1 illustrates the transaction as well as the resulting structure (described in DaimlerChrysler, 1998b, pp. 11–13). Baums (1999) describes the details of the legal structure and problems arising from defective regulatory and legal environment, but we limit our discussion to the most important points.
+
+Ownership structure and the largest stockholders
+------------------------------------------------
+
+DaimlerChrysler was the first automotive company with a genuinely global ownership structure at the time of merger. Initially, stockholders were located equally in the United States (44%) and Europe (44%). German stockholders held 37% of shares. Three core stockholders owned 27% of DaimlerChrysler shares outstanding, 17,000 institutional investors held 49%, and 1.3 million retail investors held 24%. Insiders controlled approximately 3% of ordinary shares.10
+
+Differences in corporate culture
+--------------------------------
+
+Although the managements of Chrysler and of Daimler-Benz expect the Transactions will produce substantial synergies, the integration of two large companies, incorporated in different countries, with geographically dispersed operations, and with different business cultures and compensation structures, presents significant management challenges. There can be no assurance that this integration, and the synergies expected to result from that integration, will be achieved as rapidly or to the extent
+
+Compensation policies
+---------------------
+
+Another area with potential for culture clash is compensation philosophy. When the merger was consummated, the independent compensation systems of both Chrysler and Daimler-Benz disappeared. The performance-based stock appreciation rights replaced the respective option plans. These rights carry the benefits of an option, but no shares change hands. Holders instead get a cash payout equal to the difference between the strike price and the stock price on the day of exercise. A global-standard pay
+
+Post-Merger events
+------------------
+
+We also looked at several other post-merger events with a direct impact on the future operations and ownership structure of DaimlerChrysler. We analyzed three major post-merger events: the decision of Standard & Poor's not to include DaimlerChrysler in the S&P500 Index, the departure of Chrysler management, and merger talks with Nissan. The stock price movements associated with these three events are reported in Table 4B.
+
+On October 1, 1998, before the merger was completed, Standard & Poor's
+
+Post-merger performance
+-----------------------
+
+The post-merger performance of DaimlerChrysler has not been good. Table 5B and Figure 2 depict the post-merger market capitalization and the stock price performance of DaimlerChrysler. Shares of DaimlerChrysler underperformed by a wide margin the following three indices: the Germany's main index DAX30, S&P500 Index, as well as the DSWorld, a composite world stock market index compiled by Datastream Inc. While it is still an open question which currency should be used to measure returns to
+
+Summary and conclusions
+-----------------------
+
+Using the DCX merger as a case study, this paper has focused on value creation and analysis of various issues in an international transaction. The market reaction to the merger was very favorable for both firms, and we illustrate the potential sources of value creation in DaimlerChrysler. These include product lines that meshed well, movement into the American market by Daimler and the European market by Chrysler, and complementary engineering and marketing skills. However, we provide evidence
+
+Recommended articles
+
+References (28)
+---------------
+
+*   R.F. Bruner
+    
+    ### [An analysis of value destruction and recovery in the alliance and proposed merger of Volvo and Renault](https://www.sciencedirect.com/science/article/pii/S0304405X98000464)
+    
+    ### Journal of Financial Economics
+    
+    (1999)
+    
+*   E. Fama
+    
+    ### [Market efficiency, long-term returns, and behavioral finance](https://www.sciencedirect.com/science/article/pii/S0304405X98000269)
+    
+    ### Journal of Financial Economics
+    
+    (1998)
+    
+*   S. Kaplan
+    
+    ### [Campeau's acquisition of federatedvalue created or value destroyed?](https://www.sciencedirect.com/science/article/pii/0304405X89900810)
+    
+    ### Journal of Financial Economics
+    
+    (1989)
+    
+*   S. Kaplan
+    
+    ### [Campeau's acquisition of federatedpost-bankruptcy results](https://www.sciencedirect.com/science/article/pii/0304405X94900205)
+    
+    ### Journal of Financial Economics
+    
+    (1994)
+    
+*   R.S. Ruback
+    
+    ### [The effect of discretionary price control decisions on equity values](https://www.sciencedirect.com/science/article/pii/0304405X82900319)
+    
+    ### Journal of Financial Economics
+    
+    (1982)
+    
+*   Baums, T. (1999). Corporate contracting around defective regulations: the Daimler-Chrysler case. Unpublished...
+*   Blitzer, D. (1999). Chairman of the S&P 500 Index Committee, quoted on Business Wire, Business Wire Inc. (Oct. 1,...
+*   Bradsher, K. (1999). A struggle over culture and turf at DaimlerChrysler. New York Times (Sept....
+*   Bruner, R., Christmann, P., Spekman, R., Kannry, B., & Davies, M. (1999). Daimler-Benz A.G.: negotiations between...
+*   DaimlerChrysler. (1998a). Annual report, as filed with the SEC on March 31, 1999, Form...
+
+*   DaimlerChrysler. (1998b). Merger prospectus. Chrysler Corporation proxy statement (for a special meeting of its...
+*   Garten, J. E. (1998). Economic viewpoint: Daimler has to steer the Chrysler merger. Business Week (July 10),...
+*   M. Grinblatt _et al._
+    
+    ### Financial Market and Corporate Strategy
+    
+    (1998)
+    
+*   J. Hooke
+    
+    ### M&AA Practical Guide to Doing the Deal
+    
+    (1997)
+    
+
+View more references
+
+Cited by (13)
+-------------
+
+*   ### [Board experience and value creation in cross-border acquisitions: The role of acquirer and target country institutions](https://www.sciencedirect.com/science/article/pii/S0969593121001840)
+    
+    2022, International Business Review
+    
+    Citation Excerpt :
+    
+    A clear example that illustrates this additional complexity is the merger of the German and U.S. car companies Daimler and Chrysler in 1998. This merger was partly motivated by the hubris of managers who misevaluated the potential synergies and finally failed due to cultural differences between the two countries (e.g., Blaško, Netter, & Sinkey, 2000). Due to these differences in domestic and cross-border mergers, we want to challenge whether board acquisition expertise influences the quality of cross-border mergers in the same way as with domestic mergers.
+    
+    Show abstract
+    
+    Our study investigates the effects of board acquisition experience on value creation in cross-border acquisitions and the dependence of this relationship on acquirer and target country institutions. We draw on cross-border acquisition research and institution-based corporate governance research to argue that the effect of board acquisition experience depends on the institutional characteristics of the acquirer and target countries and on cultural differences between these two countries. Based on 1775 cross-border acquisitions of U.S. and European acquirers, we show a positive effect of board acquisition experience on the announcement returns of cross-border acquisitions, which is even stronger when the target country’s takeover regulations are less friendly and when the target and acquirer countries are culturally more distant.
+    
+*   ### [The impact of cultural differences and acculturation factors on post-acquisition conflict](https://www.sciencedirect.com/science/article/pii/S095652210900092X)
+    
+    2010, Scandinavian Journal of Management
+    
+    Show abstract
+    
+    The importance of cultural factors as antecedents of post-acquisition conflict has been recognized in previous research. Nevertheless, this recognition has translated itself into relatively little wide-scale empirical research. Therefore, this paper empirically examines the impact of cultural differences and acculturation factors on post-acquisition conflict. It proposes that post-acquisition conflict can be explained by cultural differences and acculturation factors. The sample is based on domestic and international acquisitions carried out by Finnish corporations during the period 2001–2004. The results show that organizational cultural differences and organizational cultural preservation increase conflict, partner attractiveness decreases conflict, while national cultural differences have no influence on the level of conflict. These findings confirm that both organizational cultural differences and acculturation factors are needed to explain the essential dynamics of post-acquisition integration.
+    
+*   ### [Stock market reaction to mergers and acquisitions in anticipation of a subsequent related significant event: Evidence from the Korean telecommunications industry](https://doi.org/10.1142/S0219091505000427)
+    
+    2005, Review of Pacific Basin Financial Markets and Policies
+    
+*   ### [Merger and acquisition strategies: How to create value](https://doi.org/10.4337/9781786430687)
+    
+    2016, Merger and Acquisition Strategies: How to Create Value
+    
+*   ### [Which U.S. market interactions affect CEO pay? Evidence from UK companies](https://doi.org/10.1287/mnsc.2013.1714)
+    
+    2013, Management Science
+    
+*   ### [Culture and profitability: Empirical evidence at a european level](https://doi.org/10.22495/cocv13i2c3p7)
+    
+    2016, Corporate Ownership and Control
+    
+
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-0043230073&md5=ebd73b32b266afcbda513a45526ae69e)
+
+[View full text](https://www.sciencedirect.com/science/article/pii/S1057521999000204)
+
+Copyright © 2000 Elsevier Science Inc. All rights reserved.
+
+Recommended articles
+--------------------
+
+*   ### [“Adolescent metabolic phenotypes and early adult metabolic syndrome: Tehran lipid and glucose study”](https://www.sciencedirect.com/science/article/pii/S0168822715002521 "“Adolescent metabolic phenotypes and early adult metabolic syndrome: Tehran lipid and glucose study”")
+    
+    Diabetes Research and Clinical Practice, Volume 109, Issue 2, 2015, pp. 287-292
+    
+    Farhad Hosseinpanah, …, Fereidoun Azizi
+    
+*   ### [The sperm motility pattern in ecotoxicological tests. The CRYO-Ecotest as a case study](https://www.sciencedirect.com/science/article/pii/S0147651315300646 "The sperm motility pattern in ecotoxicological tests. The CRYO-Ecotest as a case study")
+    
+    Ecotoxicology and Environmental Safety, Volume 123, 2016, pp. 53-59
+    
+    Adele Fabbrocini, …, Giovanni Sansone
+    
+*   ### [How do reservation prices impact distressed debt rescheduling?](https://www.sciencedirect.com/science/article/pii/S0264999314004702 "How do reservation prices impact distressed debt rescheduling?")
+    
+    Economic Modelling, Volume 46, 2015, pp. 269-282
+    
+    Franck Moraux, Patrick Navatte
+    
+*   ### [Exact Stochastic Simulation of a Calcium Microdomain Reveals the Impact of Ca2+ Fluctuations on IP3R Gating](https://www.sciencedirect.com/science/article/pii/S0006349514046712 "Exact Stochastic Simulation of a Calcium Microdomain Reveals the Impact of Ca2+ Fluctuations on IP3R Gating")
+    
+    Biophysical Journal, Volume 108, Issue 3, 2015, pp. 557-567
+    
+    Nicolas Wieder, …, Frederic von Wegner
+    
+*   ### [Newman's conjecture in function fields](https://www.sciencedirect.com/science/article/pii/S0022314X15001821 "Newman's conjecture in function fields")
+    
+    Journal of Number Theory, Volume 157, 2015, pp. 154-169
+    
+    Alan Chang, …, Dylan Yott
+    
+*   ### [Increase in the Power Factor of the Electric ac Loco-motive due to a New Structure of Compensator Operation](https://www.sciencedirect.com/science/article/pii/S1877705816342485 "Increase in the Power Factor of the Electric ac Loco-motive due to a New Structure of Compensator Operation")
+    
+    Procedia Engineering, Volume 165, 2016, pp. 1512-1519
+    
+    Yuriy Kulinich, Sergey Shukharev
+    
+
+Show 3 more articles
+
+[![Image 5: Elsevier logo with wordmark](https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+
+*   [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+*   [Remote access](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1057521999000204)
+*   [Shopping cart](https://sd-cart.elsevier.com/?)
+*   [Advertise](https://www.elsmediakits.com/)
+*   [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+*   [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+*   [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+
+Cookies are used by this site. **Cookie Settings**
+
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
+
+[![Image 6: RELX group home page](https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

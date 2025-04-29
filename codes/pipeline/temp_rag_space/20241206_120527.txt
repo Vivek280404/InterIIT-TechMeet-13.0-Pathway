@@ -1,0 +1,273 @@
+User Interest Towards 5G service from Jio and Airtel Decline: Ookla - TelecomLead
+===============
+
+[Twitter](https://twitter.com/infotechlead "Twitter")
+
+*   [4G](https://telecomlead.com/category/4g-lte)
+*   [5G](https://telecomlead.com/category/5g)
+*   [STATISTICS](https://telecomlead.com/category/telecom-statistics)
+*   [OPERATOR](https://telecomlead.com/category/telecom-services)
+*   [INTERNET](https://telecomlead.com/category/broadband)
+*   [BROADCAST](https://telecomlead.com/category/broadcasting)
+*   [NETWORK](https://telecomlead.com/category/telecom-equipment)
+*   [CHIPS](https://telecomlead.com/category/telecom-chips)
+*   [INDEPTH](https://telecomlead.com/category/in-depth)
+*   [PHONE](https://telecomlead.com/category/smart-phone)
+
+Search 
+
+ 
+
+![Image 1](blob:https://telecomlead.com/06a92a57fae797a62464e53f246ee103)
+
+ 
+
+ 
+
+Search
+
+[Search](https://telecomlead.com/5g/user-interest-towards-5g-service-from-jio-and-airtel-decline-ookla-115583#)
+
+[![Image 2](blob:https://telecomlead.com/06a92a57fae797a62464e53f246ee103)](https://telecomlead.com/)
+
+   
+
+*   [4G](https://telecomlead.com/category/4g-lte)
+*   [5G](https://telecomlead.com/category/5g)
+*   [STATISTICS](https://telecomlead.com/category/telecom-statistics)
+*   [OPERATOR](https://telecomlead.com/category/telecom-services)
+*   [INTERNET](https://telecomlead.com/category/broadband)
+*   [BROADCAST](https://telecomlead.com/category/broadcasting)
+*   [NETWORK](https://telecomlead.com/category/telecom-equipment)
+*   [CHIPS](https://telecomlead.com/category/telecom-chips)
+*   [INDEPTH](https://telecomlead.com/category/in-depth)
+*   [PHONE](https://telecomlead.com/category/smart-phone)
+
+ 
+
+User Interest Towards 5G service from Jio and Airtel Decline: Ookla
+===================================================================
+
+ 
+
+April 1, 2024
+
+ 
+
+Smartphone users’ sentiment towards 5G service from Reliance Jio and Bharti Airtel in India is positive but declining, according to a [report from Ookla](https://www.ookla.com/articles/india-5g-experience-q4-2023).  
+![Image 3: India 5G quality score Ookla 2023](https://telecomlead.com/wp-content/uploads/2024/04/India-5G-quality-score-Ookla-2023.png)Net Promoter Score (NPS) indicates customer satisfaction and loyalty. Operator network performance, availability, and quality can impact customers’ satisfaction with their mobile service provider.
+
+Globally, [5G users](https://telecomlead.com/5g) rated their network operator with NPS scores that were universally higher than those for 4G LTE users.
+
+In [India](https://telecomlead.com/telecom-services), 5G NPS scores are on the positive end of the scale as opposed to scores for 4G. However, for all operators combined, 5G NPS in India has been decreasing quarterly, the report said.
+
+The difference in terms of uplift that 5G brings over 4G NPS score has decreased from 59.7 in Q4 2022 to 37.9 in Q4. Operators’ 5G NPS continue to score positively compared to 4G, driven by improved performance.
+
+Reliance Jio and Airtel scored positively in their 5G NPS in Q4 2023, with almost similar NPS of 7.4 and 7.5, respectively. Both operators showed higher NPS on 5G compared to 4G LTE, with Reliance Jio seeing an uplift of 41.2 points on 5G compared to Airtel’s 37.6.
+
+Network performance isn’t the only reason behind 5G NPS declines. Other factors can include customer care, pricing, and quality of other services.
+
+Ookla’s Speedtest Intelligence data shows that in Q4 2023, NPS for 5G users for both operators were similar, at 7.4 for Reliance Jio and 7.5 for Airtel.
+
+Reliance Jio’s 5G service recorded the largest difference in NPS when comparing users on its 4G LTE network to those on 5G during that period, with an uplift of 41.2 basis points. Airtel saw an increase of 37.6 basis points in its NPS score when comparing its 4G LTE network to its 5G network.
+
+INVESTMENT
+
+By the end of December 2023, India had more than four hundred thousand 5G base stations (BTSs) deployed nationwide, an increase of 7.7 times from January 2023, making it one of the fastest countries to roll out 5G globally.  
+![Image 4: 5G availablity by Jio and Airtel Ookla report](https://telecomlead.com/wp-content/uploads/2024/04/5G-availablity-by-Jio-and-Airtel-Ookla-report.png)Reliance Jio and Airtel have introduced 5G Fixed Wireless Access (FWA) services, known as Jio AirFiber and Xstream AirFiber. These services are aimed at complementing their current 5G offerings as they explore new 5G use cases to monetize their investments in 5G network.
+
+Reliance Jio has implemented a 5G Standalone (5G SA) network for its 5G network from the beginning.
+
+Airtel has decided to use a Non-Standalone (NSA) architecture for its 5G rollout at launch. Airtel plans to employ 5G SA for fixed wireless access (FWA) services as traffic increases and eventually shift to a full 5G SA network in the long term.
+
+Vodafone Idea, the third-largest service provider in India, plans to launch its 5G services by mid-2024.
+
+GLOBAL RANKING
+
+India ranked 14th globally in 5G median download speeds with 301.86 Mbps based on Q4 2023 data thanks to Reliance Jio and Bharti Airtel’s large-scale and swift deployment.
+
+India’s 5G Availability increased throughout in 2023. 5G Availability improved from 28.1 percent in Q1 to 52.0 percent in Q4 2023, representing a 23.9 percentage point increase within a year.
+
+Reliance Jio’s 5G availability rate during Q4 2023 was 68.8 percent, 38.5 percentage points higher than Airtel’s 30.4 percent.
+
+MOBILE GAMING
+
+India’s 5G network offers a superior experience in video streaming and mobile gaming compared to the existing 4G-LTE.
+
+Reliance Jio and Airtel’s 5G networks have improved video start times and reduced buffering compared to 4G LTE, clocking 5G video start times of 1.14 seconds and 1.29 seconds, respectively.
+
+In contrast, Reliance Jio’s 4G LTE video start time was 1.99 seconds and 1.73 seconds for Airtel. Mobile gamers also experienced improved median latency, with 77 ms and 92 ms for Reliance Jio and Airtel, respectively.
+
+Ericsson forecasted the number of 5G subscribers in India reached 130 million at the end of December 2023, compared to over 10 million recorded at the close of 2022.
+
+Speedtest Intelligence data shows that in Q4 2023, India recorded a 5G median download speed of 301.86 Mbps, slightly below Bulgaria’s speed of 306.44 Mbps. The GCC countries of the United Arab Emirates and Qatar led the fastest 5G markets globally during the period, with speeds of 654.59 Mbps and 516.79 Mbps, respectively. South Korea was the fastest Asia Pacific country, coming in third overall with a speed of 485.25 Mbps.
+
+Baburajan Kizhakedath
+
+ 
+
+*   Tags
+*   [5G](https://telecomlead.com/tag/5g)
+*   [5G service](https://telecomlead.com/tag/5g-service)
+
+Share
+
+[Copy URL](https://telecomlead.com/5g/user-interest-towards-5g-service-from-jio-and-airtel-decline-ookla-115583 "Copy URL")[Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https://telecomlead.com/5g/user-interest-towards-5g-service-from-jio-and-airtel-decline-ookla-115583&title=User+Interest+Towards+5G+service+from+Jio+and+Airtel+Decline%3A+Ookla "Linkedin")[Twitter](https://twitter.com/intent/tweet?text=User+Interest+Towards+5G+service+from+Jio+and+Airtel+Decline%3A+Ookla&url=https%3A%2F%2Ftelecomlead.com%2F5g%2Fuser-interest-towards-5g-service-from-jio-and-airtel-decline-ookla-115583&via=infotechlead "Twitter")[Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftelecomlead.com%2F5g%2Fuser-interest-towards-5g-service-from-jio-and-airtel-decline-ookla-115583 "Facebook")[Email](mailto:?subject=UserInterestTowards5GservicefromJioandAirtelDecline:Ookla&body=https://telecomlead.com/5g/user-interest-towards-5g-service-from-jio-and-airtel-decline-ookla-115583 "Email")
+
+[](https://telecomlead.com/5g/user-interest-towards-5g-service-from-jio-and-airtel-decline-ookla-115583# "More")
+
+ 
+
+Previous article
+
+[Samsung and Labor Union Agree 5.1% Hike in Salary](https://telecomlead.com/electronics/samsung-and-labor-union-agree-5-1-hike-in-salary-115581)
+
+Next article
+
+[Huawei Empowers Telecom Operators to Enhance Customer Experience](https://telecomlead.com/telecom-equipment/huawei-empowers-telecom-operators-to-enhance-customer-experience-115590)
+
+ Latest
+
+ 
+
+[](https://telecomlead.com/telecom-services/du-deploys-cloud-ran-solution-with-nokia-and-red-hat-openshift-119297 "DU deploys Cloud RAN solution with Nokia and Red Hat OpenShift")
+
+### [DU deploys Cloud RAN solution with Nokia and Red Hat OpenShift](https://telecomlead.com/telecom-services/du-deploys-cloud-ran-solution-with-nokia-and-red-hat-openshift-119297 "DU deploys Cloud RAN solution with Nokia and Red Hat OpenShift")
+
+[](https://telecomlead.com/latest-news/uk-okays-19-bn-vodafone-three-merger-to-create-largest-mobile-operator-119295 "UK okays $19 bn Vodafone-Three merger to create largest mobile operator")
+
+### [UK okays $19 bn Vodafone-Three merger to create largest mobile operator](https://telecomlead.com/latest-news/uk-okays-19-bn-vodafone-three-merger-to-create-largest-mobile-operator-119295 "UK okays $19 bn Vodafone-Three merger to create largest mobile operator")
+
+[](https://telecomlead.com/broadband/apple-plans-1-bn-manufacturing-plant-investment-in-indonesia-119293 "Apple plans $1 bn manufacturing plant investment in Indonesia")
+
+### [Apple plans $1 bn manufacturing plant investment in Indonesia](https://telecomlead.com/broadband/apple-plans-1-bn-manufacturing-plant-investment-in-indonesia-119293 "Apple plans $1 bn manufacturing plant investment in Indonesia")
+
+[](https://telecomlead.com/electronics/whos-the-new-leader-in-global-wearable-band-market-in-q3-2024-119290 "Who’s the new leader in global wearable band market in Q3 2024?")
+
+### [Who’s the new leader in global wearable band market in Q3 2024?](https://telecomlead.com/electronics/whos-the-new-leader-in-global-wearable-band-market-in-q3-2024-119290 "Who’s the new leader in global wearable band market in Q3 2024?")
+
+[](https://telecomlead.com/telecom-equipment/nokia-and-ioh-extend-4g-and-5g-collaboration-in-indonesia-119287 "Nokia and IOH extend 4G and 5G collaboration in Indonesia")
+
+### [Nokia and IOH extend 4G and 5G collaboration in Indonesia](https://telecomlead.com/telecom-equipment/nokia-and-ioh-extend-4g-and-5g-collaboration-in-indonesia-119287 "Nokia and IOH extend 4G and 5G collaboration in Indonesia")
+
+[](https://telecomlead.com/telecom-statistics/samsung-leads-latam-smartphone-market-in-q3-2024-119283 "Samsung leads LATAM smartphone market in Q3 2024")
+
+### [Samsung leads LATAM smartphone market in Q3 2024](https://telecomlead.com/telecom-statistics/samsung-leads-latam-smartphone-market-in-q3-2024-119283 "Samsung leads LATAM smartphone market in Q3 2024")
+
+[](https://telecomlead.com/telecom-statistics/global-foundry-industry-revenue-soars-on-ai-smartphone-demand-119279 "Global foundry industry revenue soars on AI, smartphone demand")
+
+### [Global foundry industry revenue soars on AI, smartphone demand](https://telecomlead.com/telecom-statistics/global-foundry-industry-revenue-soars-on-ai-smartphone-demand-119279 "Global foundry industry revenue soars on AI, smartphone demand")
+
+[](https://telecomlead.com/electronics/global-wearable-band-market-xiaomi-ties-with-apple-for-top-spot-119273 "Global wearable band market: Xiaomi ties with Apple for top spot")
+
+### [Global wearable band market: Xiaomi ties with Apple for top spot](https://telecomlead.com/electronics/global-wearable-band-market-xiaomi-ties-with-apple-for-top-spot-119273 "Global wearable band market: Xiaomi ties with Apple for top spot")
+
+[](https://telecomlead.com/telecom-services/vodafone-strategy-to-sell-3-stake-in-indus-towers-119270 "Vodafone strategy to sell 3% stake in Indus Towers")
+
+### [Vodafone strategy to sell 3% stake in Indus Towers](https://telecomlead.com/telecom-services/vodafone-strategy-to-sell-3-stake-in-indus-towers-119270 "Vodafone strategy to sell 3% stake in Indus Towers")
+
+[](https://telecomlead.com/5g/whats-the-investment-strategy-for-att-under-ceo-john-stankey-119268 "What’s the investment Strategy for AT&T under CEO John Stankey")
+
+### [What’s the investment Strategy for AT&T under CEO John Stankey](https://telecomlead.com/5g/whats-the-investment-strategy-for-att-under-ceo-john-stankey-119268 "What’s the investment Strategy for AT&T under CEO John Stankey")
+
+ 
+
+#### More like this
+
+Related
+
+ 
+
+[](https://telecomlead.com/5g/whats-the-investment-strategy-for-att-under-ceo-john-stankey-119268 "What’s the investment Strategy for AT&T under CEO John Stankey")
+
+### [What’s the investment Strategy for AT&T under CEO John Stankey](https://telecomlead.com/5g/whats-the-investment-strategy-for-att-under-ceo-john-stankey-119268 "What’s the investment Strategy for AT&T under CEO John Stankey")
+
+ [![Image 5: Telecom Lead](https://secure.gravatar.com/avatar/c1e219766a9fc5df289c3c75671af58f?s=96&d=mm&r=g)](https://telecomlead.com/author/admin) [Telecom Lead](https://telecomlead.com/author/admin) \- December 4, 2024
+
+AT&T CEO John Stankey’s announcements during the Analyst and...
+
+[](https://telecomlead.com/5g/telia-ceo-patrik-hofbauer-reveals-new-strategies-119237 "Telia CEO Patrik Hofbauer reveals new strategies")
+
+### [Telia CEO Patrik Hofbauer reveals new strategies](https://telecomlead.com/5g/telia-ceo-patrik-hofbauer-reveals-new-strategies-119237 "Telia CEO Patrik Hofbauer reveals new strategies")
+
+ [![Image 6: Telecom Lead](https://secure.gravatar.com/avatar/c1e219766a9fc5df289c3c75671af58f?s=96&d=mm&r=g)](https://telecomlead.com/author/admin) [Telecom Lead](https://telecomlead.com/author/admin) \- December 2, 2024
+
+Telia CEO Patrik Hofbauer today announced its decentralized country-led...
+
+[](https://telecomlead.com/5g/what-will-be-the-growth-of-5g-subscriptions-in-india-119190 "What will be the growth of 5G subscriptions in India?")
+
+### [What will be the growth of 5G subscriptions in India?](https://telecomlead.com/5g/what-will-be-the-growth-of-5g-subscriptions-in-india-119190 "What will be the growth of 5G subscriptions in India?")
+
+ [![Image 7: Telecom Lead](https://secure.gravatar.com/avatar/c1e219766a9fc5df289c3c75671af58f?s=96&d=mm&r=g)](https://telecomlead.com/author/admin) [Telecom Lead](https://telecomlead.com/author/admin) \- November 26, 2024
+
+India 5G subscriptions are forecast to reach over 270...
+
+[](https://telecomlead.com/5g/elisa-strategies-for-driving-5g-standalone-services-and-innovation-119186 "Elisa strategies for driving 5G standalone services and innovation")
+
+### [Elisa strategies for driving 5G standalone services and innovation](https://telecomlead.com/5g/elisa-strategies-for-driving-5g-standalone-services-and-innovation-119186 "Elisa strategies for driving 5G standalone services and innovation")
+
+ [![Image 8: Telecom Lead](https://secure.gravatar.com/avatar/c1e219766a9fc5df289c3c75671af58f?s=96&d=mm&r=g)](https://telecomlead.com/author/admin) [Telecom Lead](https://telecomlead.com/author/admin) \- November 26, 2024
+
+Elisa has marked a major milestone with the launch...
+
+ 
+
+[![Image 9: Logo](https://telecomlead.com/wp-content/uploads/2013/05/tl.png)](https://telecomlead.com/)
+
+ 
+
+*   [ABOUT US](https://telecomlead.com/about-us)
+*   [PARTNERSHIP](https://telecomlead.com/partnership)
+*   [PRIVACY POLICY](https://telecomlead.com/privacy-policy)
+*   [CONTACT US](https://telecomlead.com/contact-us)
+
+### About us
+
+ News website for 4G, 5G, Statistics, Telecom Services, Internet, Broadband, Broadcast, Network, Chips, and Smartphones.
+
+  
+
+[Facebook](https://telecomlead.com/5g/TelecomLead "Facebook")
+
+[Linkedin](https://telecomlead.com/5g/telecomlead "Linkedin")
+
+[Twitter](https://telecomlead.com/5g/telecomlead "Twitter")
+
+### Company
+
+ 
+
+*   [ABOUT US](https://telecomlead.com/about-us)
+*   [PARTNERSHIP](https://telecomlead.com/partnership)
+*   [PRIVACY POLICY](https://telecomlead.com/privacy-policy)
+*   [CONTACT US](https://telecomlead.com/contact-us)
+
+### The latest
+
+ 
+
+[](https://telecomlead.com/telecom-services/du-deploys-cloud-ran-solution-with-nokia-and-red-hat-openshift-119297 "DU deploys Cloud RAN solution with Nokia and Red Hat OpenShift")
+
+### [DU deploys Cloud RAN solution with Nokia and Red Hat OpenShift](https://telecomlead.com/telecom-services/du-deploys-cloud-ran-solution-with-nokia-and-red-hat-openshift-119297 "DU deploys Cloud RAN solution with Nokia and Red Hat OpenShift")
+
+[Telecom Services](https://telecomlead.com/category/telecom-services) December 6, 2024 [0](https://telecomlead.com/telecom-services/du-deploys-cloud-ran-solution-with-nokia-and-red-hat-openshift-119297#respond)
+
+DU, a telecom and digital services provider, has deployed...
+
+[](https://telecomlead.com/latest-news/uk-okays-19-bn-vodafone-three-merger-to-create-largest-mobile-operator-119295 "UK okays $19 bn Vodafone-Three merger to create largest mobile operator")
+
+### [UK okays $19 bn Vodafone-Three merger to create largest mobile operator](https://telecomlead.com/latest-news/uk-okays-19-bn-vodafone-three-merger-to-create-largest-mobile-operator-119295 "UK okays $19 bn Vodafone-Three merger to create largest mobile operator")
+
+[Latest News](https://telecomlead.com/category/latest-news) December 5, 2024 [0](https://telecomlead.com/latest-news/uk-okays-19-bn-vodafone-three-merger-to-create-largest-mobile-operator-119295#respond)
+
+Britain’s Competition and Markets Authority (CMA) has approved Vodafone’s...
+
+[](https://telecomlead.com/broadband/apple-plans-1-bn-manufacturing-plant-investment-in-indonesia-119293 "Apple plans $1 bn manufacturing plant investment in Indonesia")
+
+### [Apple plans $1 bn manufacturing plant investment in Indonesia](https://telecomlead.com/broadband/apple-plans-1-bn-manufacturing-plant-investment-in-indonesia-119293 "Apple plans $1 bn manufacturing plant investment in Indonesia")
+
+[Broadband](https://telecomlead.com/category/broadband) December 5, 2024 [0](https://telecomlead.com/broadband/apple-plans-1-bn-manufacturing-plant-investment-in-indonesia-119293#respond)
+
+US-based technology giant Apple is planning to make an...
+
+ © 2024 Kizhakedath Media Services. All rights reserved.

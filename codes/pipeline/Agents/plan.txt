@@ -1,0 +1,89 @@
+To tackle the task of comparing the debt structures of United and Continental Airlines pre-merger and assessing the impact of the merger on the combined entity's credit rating and borrowing costs, we will break this down into several subtasks. Each subtask will focus on a specific aspect of the problem, ensuring that we cover the multi-dimensional nature of the inquiry.
+
+### Chain of Thoughts (COT)
+
+1. **Understanding the Debt Structures**: The first step is to gather the debt structure information for both United Airlines and Continental Airlines before the merger. This involves looking into their balance sheets to analyze their liabilities and debt profiles. This will be done using the `get_balance_sheet` tool for both companies.
+
+2. **Comparative Analysis of Debt Structures**: After obtaining the debt structures, we will need to compare them to identify key differences and similarities. This comparison will be a standalone task as it will synthesize the data from the previous tasks but will not require additional data.
+
+3. **Assessing Credit Ratings**: Next, we need to look at the credit ratings of both airlines prior to the merger. This will involve using tools to fetch their credit ratings, which can often be found in SEC filings or through web searches for their financial reports. 
+
+4. **Impact on Combined Entity's Credit Rating**: Based on the information gathered about the individual credit ratings and debt structures, we will analyze how the merger might affect the combined entity's credit rating. This will involve understanding the implications of their combined debt and financial health.
+
+5. **Borrowing Costs Analysis**: Finally, we will assess how the merger affects the borrowing costs for the new entity. This will require insights into interest rates, market conditions, and potentially new credit ratings post-merger.
+
+### Dependencies and Local Constraints
+
+- The first task will provide foundational data needed for subsequent tasks.
+- Each subtask has its own specific local constraints, such as ensuring the data is from the correct time frame or pertains specifically to the airlines in question.
+
+### Global Constraints
+The overall task is constrained by the need for accurate and timely financial data, which must be specific to the period before the merger and must accurately reflect the financial health of both airlines.
+
+### JSON Template
+
+```json
+{
+    "main_task": "Compare the debt structures of United and Continental Airlines pre-merger and assess the impact of the merger on the combined entity's credit rating and borrowing costs.",
+    "sub_tasks": {
+        "task_1": {
+            "content": "Retrieve the balance sheet data for United Airlines to analyze its debt structure.",
+            "agent": "Financial Analyst",
+            "agent_role_description": "A financial analyst specializes in analyzing financial data and providing insights on a company's financial health, particularly focusing on balance sheets and debt structures.",
+            "tools": ["get_balance_sheet"],
+            "local_constraints": ["Data must be from the latest available balance sheet prior to the merger."],
+            "require_data": []
+        },
+        "task_2": {
+            "content": "Retrieve the balance sheet data for Continental Airlines to analyze its debt structure.",
+            "agent": "Financial Analyst",
+            "agent_role_description": "A financial analyst specializes in analyzing financial data and providing insights on a company's financial health, particularly focusing on balance sheets and debt structures.",
+            "tools": ["get_balance_sheet"],
+            "local_constraints": ["Data must be from the latest available balance sheet prior to the merger."],
+            "require_data": []
+        },
+        "task_3": {
+            "content": "Based on the balance sheet data retrieved in task_1 and task_2, compare the debt structures of United and Continental Airlines.",
+            "agent": "Financial Analyst",
+            "agent_role_description": "A financial analyst will compare the debt structures of both airlines, focusing on liabilities, debt ratios, and overall financial leverage.",
+            "tools": [],
+            "local_constraints": ["Comparison must highlight key differences and similarities in debt structures."],
+            "require_data": ["task_1", "task_2"]
+        },
+        "task_4": {
+            "content": "Retrieve the credit ratings of United Airlines prior to the merger.",
+            "agent": "Financial Analyst",
+            "agent_role_description": "A financial analyst will search for and interpret the credit ratings assigned to United Airlines before the merger.",
+            "tools": ["web_search"],
+            "local_constraints": ["Credit rating data must be the most recent prior to the merger."],
+            "require_data": []
+        },
+        "task_5": {
+            "content": "Retrieve the credit ratings of Continental Airlines prior to the merger.",
+            "agent": "Financial Analyst",
+            "agent_role_description": "A financial analyst will search for and interpret the credit ratings assigned to Continental Airlines before the merger.",
+            "tools": ["web_search"],
+            "local_constraints": ["Credit rating data must be the most recent prior to the merger."],
+            "require_data": []
+        },
+        "task_6": {
+            "content": "Based on the credit ratings retrieved in task_4 and task_5, assess the potential impact of the merger on the combined entity's credit rating.",
+            "agent": "Financial Analyst",
+            "agent_role_description": "A financial analyst will evaluate how the merger of United and Continental Airlines could affect the overall credit rating of the new entity, considering the combined debt and financial health.",
+            "tools": [],
+            "local_constraints": ["Assessment must consider both airlines' financial health and market conditions."],
+            "require_data": ["task_4", "task_5"]
+        },
+        "task_7": {
+            "content": "Analyze how the merger affects the borrowing costs for the new entity based on the combined credit rating and market conditions.",
+            "agent": "Financial Analyst",
+            "agent_role_description": "A financial analyst will analyze the implications of the merger on borrowing costs, considering interest rates and credit ratings.",
+            "tools": [],
+            "local_constraints": ["Analysis must reflect current market conditions and interest rates."],
+            "require_data": ["task_6"]
+        }
+    }
+}
+``` 
+
+This structured approach ensures that we cover all necessary aspects of the task while maintaining clarity and focus on specific domains. Each subtask is designed to be executed independently where possible, while also respecting dependencies that require prior data.

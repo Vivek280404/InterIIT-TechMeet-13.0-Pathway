@@ -1,0 +1,134 @@
+Jio, Airtel, Vi Users may Stop Receiving OTPs if Telecos Fail to Meet TRAI's November 30 Deadline | Republic World
+===============
+                                                                                                                                                             
+
+###### Advertisement
+
+[Republic World](https://www.republicworld.com/)
+
+[Republic Business](https://www.republicbiz.com/)
+
+[R.Bharat](https://www.republicbharat.com/)
+
+[R.Bangla](https://www.republicbangla.co.in/)
+
+[R.Kannada](https://www.republickannada.co.in/)
+
+[![Image 4: Republic TV Logo](https://img.republicworld.com/logo/english/republic-logo2.svg)](https://www.republicworld.com/)
+
+[Home](https://www.republicworld.com/ "Home")
+
+[Tech](https://www.republicworld.com/tech "Tech ")
+
+ [![Image 5: category-icon](https://img.republicworld.com/asset/live_tv_FILL0_wght400_GRAD0_opsz48-1-1722509879280.svg) Live TV](https://www.republicworld.com/livetv "Live TV")
+
+[Defence ![Image 6: new-icon](https://img.republicworld.com/asset/new-1722593919444.svg)](https://www.republicworld.com/defence "Defence") 
+
+[SportFit ![Image 7: new-icon](https://img.republicworld.com/asset/hot-1722510657404-1723525431634.svg)](https://www.republicworld.com/sports "SportFit") 
+
+[India News](https://www.republicworld.com/india "India News")
+
+[World](https://www.republicworld.com/world-news "World")
+
+[Latest News](https://www.republicworld.com/latest-news "Latest News")
+
+[Republic Business ![Image 8: new-icon](https://img.republicworld.com/asset/hot-1722510657404.svg)](https://www.republicworld.com/business "Republic Business") 
+
+[Education](https://www.republicworld.com/education "Education")
+
+More ![Image 9: Dropdown arrow](blob:https://www.republicworld.com/dc19b97c5115f3b3b29b6c2a280bdf45) 
+
+TRENDING/ [Congress Cash Controversy |](https://www.republicworld.com/india/ruckus-in-rajya-sabha-after-notes-found-on-congress-mp-abhishek-manu-singhvi-s-seat) [New Maharashtra Cabinet |](https://www.republicworld.com/india/all-eyes-on-portfolio-allocation-in-maharashtra-after-swearing-in-big-meeting-likely-today) [Syria Crisis |](https://www.republicworld.com/world-news/syrian-rebels-capture-key-city-of-hama-in-fresh-blow-to-assad-after-aleppo-takeover-syria-civil-war-west-asia-crisis-governor-palace) [Sheikh Hasina vs Yunus |](https://www.republicworld.com/world-news/bangladesh-court-bans-shiekh-hasina-s-broadcast-calling-it-hate-speech) [Farmers' Protest |](https://www.republicworld.com/india/farmers-protest-today-live-updates-101-farmers-to-go-to-delhi-from-shambhu-border-sarwar-singh-pandher-announcement-security-heightened-traffic-advisory)
+
+       
+
+*   [News /](https://www.republicworld.com/)
+*   [Tech /](https://www.republicworld.com/tech)
+*   Jio, Airtel, Vi Users may Stop Receiving OTPs if Telecos Fail to Meet TRAI's November 30 Deadline
+
+Published 17:16 IST, November 28th 2024
+
+Jio, Airtel, Vi Users may Stop Receiving OTPs if Telecos Fail to Meet TRAI's November 30 Deadline
+=================================================================================================
+
+Smartphone users in India may stop receiving OTPs post December 1 if telecom companies in India don't meet TRAI's November 30 deadline to curb spam messages.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [Tech](https://www.republicworld.com/tech)
+*   3 min read
+
+Reported by: [Tech Desk](https://www.republicworld.com/authors/tech-desk)
+
+Follow: [![Image 10: Google News Icon](https://img.republicworld.com//icons/icons/google-news.svg)](https://news.google.com/publications/CAAqBwgKMMGSkQswztSlAw?hl=en-IN&gl=IN&ceid=IN%3Aen) 
+
+*   ![Image 11: share](https://img.republicworld.com//icons/icons/share.svg)
+
+![Image 12: India's telecom is cost-effective](https://img.republicworld.com/tr:w-800,h-450,q-75,f-auto/rimages/aerial-1880864_640-169856497410116_9.webp)
+
+Telecom sector in India | Image: Pixabay
+
+###### Advertisement
+
+Smartphone users in India could face issues in receiving OTPs (One Time Passwords) and telecom operators in the country, which includes Reliance's Jio, Bharti's Airtel and Vodafone Idea, race to meet the deadline set by the Telecom Regulatory Authority of India (TRAI). For the unversed, TRAI has set a deadline of December 1, 2024, for enforcing a set of guidelines that are aimed at curbing spam messages and calls in India.
+
+Earlier, the regulatory body had set the deadline for the implementation of its guidelines to October 28. Shortly after, it revised the deadline to November 30 to give telecom operators and companies sending the messages, ample time to meet the set requirements. TRAI has said that starting December 1, 2024, messages from all non-compliant companies will be rejected.
+
+TRAI Guidelines for curbing scam calls and spam messages in India
+-----------------------------------------------------------------
+
+As mentioned before, TRAI has specified a set of rules in a bid to curb spam messages and calls in India. Here is a list of guidelines that TRAI has set:
+
+\-- Telemarketing calls starting from the numbering series '140' have been migrated to a Blockchain based platform for better migration and control.
+
+\-- TRAI has also prohibited telecom companies from sending messages containing URLs, APKs, OTT links or call back numbers that have not been whitelisted by the senders of the messages as per the criterion set by the organisation.
+
+\-- TRAI has also mandated that senders of messages maintain a trail of all the messages that they send to the users of their services. "Any message with an undefined or mismatched telemarketer chain will be rejected," TRAI wrote in its guidelines.
+
+\-- TRAI has also introduced punishment for companies that misuse whitelisted content templates for promotional content. The organisation has said that content templates registered under the wrong category will be blacklisted, and that repeated offenders will get a one-month suspension of their services.
+
+\-- In its guidelines, TRAI has said that misuse of headers or content templates will lead to immediate suspension of traffic of the sender.
+
+\-- Lastly, the organisation has directed the Delivery Telemarketers to identify and report entities misusing the content within two business days.
+
+TRAI Guidelines implementation: What can users do?
+--------------------------------------------------
+
+While telecom companies race to implement the guidelines set by TRAI, smartphone users can take the following precaution:
+
+\-- Enable two-factor authentication or enable using biometric data to reduce dependence on OTPs.
+
+\-- Users can also avoid downloading unknown apps and clicking on links received in messages in order to protect themselves from scams.
+
+Updated 17:17 IST, November 28th 2024
+
+*   [About Us](https://www.republicworld.com/about-us "/About Us")
+*   [Contact Us](https://www.republicworld.com/contact-us "/Contact Us")
+*   [Privacy Policy](https://www.republicworld.com/privacy-policy "/Privacy Policy")
+*   [Sitemap](https://www.republicworld.com/sitemap "/Sitemap")
+*   [RSS](https://www.republicworld.com/rss "/RSS")
+*   [Policies Disclaimers](https://www.republicworld.com/policies-disclaimers "/Policies Disclaimers")
+
+[![Image 13: Footer Img](https://img.republicworld.com/icons/icons/republic-logo-eng.svg)](https://www.republicworld.com/) [![Image 14: Republic Bharat Logo](https://img.republicworld.com/icons/icons/republic-logo-bharat.svg)](https://www.republicbharat.com/) [![Image 15: Republic Bangla Logo](https://img.republicworld.com/icons/icons/republic-logo-bangla.svg)](https://www.republicbangla.co.in/) [![Image 16: R Kannada Logo](https://img.republicworld.com/icons/icons/RKannada_logo.svg)](https://www.republickannada.co.in/)
+
+[![Image 17: Republic Business Logo](https://img.republicworld.com/icons/icons/rbusiness-logo.svg)](https://www.republicbiz.com/)
+
+##### Follow Republic on:
+
+*   [![Image 18: Facebook Footer logo](https://img.republicworld.com/icons/icons/footer-fb-logo.svg)](https://www.facebook.com/RepublicWorld)
+*   [![Image 19: Instagram Footer logo](https://img.republicworld.com/icons/icons/footer-instagram-logo.svg)](https://www.instagram.com/RepublicWorld)
+*   [![Image 20: Youtube Footer logo](https://img.republicworld.com/icons/icons/footer-youtube-logo.svg)](https://www.youtube.com/@RepublicWorld)
+*   [![Image 21: Telegram Footer logo](https://img.republicworld.com/icons/icons/footer-telegram-logo.svg)](https://t.me/s/Republiclive)
+*   [![Image 22: Twitter Footer logo](https://img.republicworld.com/icons/icons/footer-x-logo.svg)](https://twitter.com/republic)
+*   [![Image 23: Threads Footer logo](https://img.republicworld.com/icons/icons/footer-threads-logo.svg)](https://www.threads.net/@republicworld)
+*   [![Image 24: Whats App Channel Footer logo](https://img.republicworld.com/icons/icons/whatsapp.svg)](https://whatsapp.com/channel/0029Va1whYb7dmeZr7v3ar0y)
+
+##### Download the all-new Republic app:
+
+[![Image 25: Republic Apple logo](https://img.republicworld.com/icons/icons/app-store.svg)](https://apps.apple.com/in/app/republic-tv/id1326556994) [![Image 26: Republic Play store logo](https://img.republicworld.com/icons/icons/google-play.svg)](https://play.google.com/store/apps/details?id=com.republicworld&hl=en)
+
+© 2024 Republic. All rights reserved.
+
+*   [![Image 27: Big Stories icon](blob:https://www.republicworld.com/8d7dd58dd15d054acd083adb4d02aeb6)Big Stories 12 New](https://www.republicworld.com/)
+*   [Quick](https://www.republicworld.com/quick)
+*   [![Image 28: Live TV icon](blob:https://www.republicworld.com/218d1b93e3e90763fc0e0fd82124d21d)Live TV](https://www.republicworld.com/livetv)
+*   [![Image 29: Video icon](blob:https://www.republicworld.com/e3697b6c2a2128bf45544c8940a99897)Video](https://www.republicworld.com/videos)

@@ -1,0 +1,257 @@
+Reliance-Disney Merger: Unpacking CCI’s Decision and Its Impact On Market Landscape – ILNU SRC Blog
+===============
+
+[ILNU SRC Blog](https://ilnusrc.wordpress.com/)
+===============================================
+
+Search
+
+*   [About](https://ilnusrc.wordpress.com/about/)
+*   [MembersFaculty coordinator-Dr. Shivani Mehta Chairperson: Prabhav Tripathi Vice Chairperson: Nandini Srivastava Secretary: Aditi Biyani Internal Affairs Head: Khushi Rohatgi Core Members: Srinanda Chatterjee Pratik Ok Kritika Singh Ananya Kaushik Ananya Singh Koustubh Persai Srinivas Iyer Sukhpreet Sodhi Shaunak Saha Tanvesha Golani](https://ilnusrc.wordpress.com/?page_id=37 "Faculty coordinator-Dr. Shivani Mehta Chairperson: Prabhav Tripathi Vice Chairperson: Nandini Srivastava Secretary: Aditi Biyani Internal Affairs Head: Khushi Rohatgi Core Members: Srinanda Chatterjee Pratik Ok Kritika Singh Ananya Kaushik Ananya Singh Koustubh Persai Srinivas Iyer Sukhpreet Sodhi Shaunak Saha Tanvesha Golani")
+*   [Blogs](https://ilnusrc.wordpress.com/?page_id=38)
+*   [Events](https://ilnusrc.wordpress.com/?page_id=39)
+
+![Image 1](https://ilnusrc.wordpress.com/wp-content/uploads/2024/11/img_20231122_191926.jpg)
+
+![Image 2](https://ilnusrc.wordpress.com/wp-content/uploads/2024/11/screenshot-2024-10-20-122512.png)
+
+#### **STUDENT RESEARCH COUNCIL  
+INSTITUTE OF LAW**  
+**NIRMA UNIVERSITY**
+
+[Reliance-Disney Merger: Unpacking CCI’s Decision and Its Impact On Market Landscape](https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Published by
+
+srcil
+
+on
+
+[December 1, 2024](https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/)
+
+**Author:** SHIVI GARG & NITEEN K. JETHANI, Student at _Institute of Law, Nirma University_
+
+![Image 3](https://ilnusrc.wordpress.com/wp-content/uploads/2024/10/competition-law.png?w=1024)
+
+The Competition Commission of India (CCI), in its 48-page order published on October 22 2024, allowed the merger between Reliance Industries Ltd. (RIL) and Walt Disney Company, subject to certain regulatory conditions.
+
+This merger was based on the strategic vision of both the companies to capitalize on the growing Indian market. However, the valuation of the deal at $8.5 billion and with RIL holding a 60% share in the venture flags concern for the Indian telecom industry and sports industry. Initially, this merger was also challenged by NCLAT, the Ministry of Information and Broadcasting and the CCI itself . This blog aims to analyze the extent of the legitimacy of this merger. It also highlights the crucial role of CCI while addressing issues like these, and the positive and negative impact of this merger in the market arena.
+
+**THE EXTENT OF LEGITIMACY OF THE MERGER BETWEEN DISNEY AND RIL**
+
+1.  **Impacts on TV channels**
+
+The joint venture of RIL and Disney would not have any substantial effect on the TV channel market particularly that of Cartoons and the film industry because of various competitors such as ZEE, Warner Bros, Sony, Sun TV, and many more. It will constrain the joint venture to a very large extent. Thus, the Competition Commission of India after receiving notices from various stakeholders of these companies has observed that the proposed combination is unlikely to have any appreciable adverse effect (AAEC) on the competition in this sphere.
+
+2.  **Steaming on non-sports content on OTT platforms**
+
+The reply to the observations made by the CCI makes it clear that the merger will not impact OTT platforms because of many other competitors such as Amazon prime, Netflix, Mx Player, etc. that has substantial base for consumer market and thus the Commission noted the submissions of the Parties is not likely to have AAEC in the previously mentioned segments.
+
+3.  **Modification proposal for TVs and Advertising content**
+
+The commission in its order has substantiated that the market power of this entity to increase advertisement prices in other spheres except sports is substantially low and so the risk is mitigated in these circumstances.
+
+4.  **Audio-visual content license** 
+
+The CCI has not observed any concern in the licensing of film and nonfilm content because the narrow segment will not cause any substantial effect on competition of the markets.
+
+5.  **Theatrical release of films and its effect on narrow segments causing competition concerns**
+
+The CCI has substantiated that the merger between RIL and Disney will not result in any AAEC because the licensing includes syndicated content and the content that is licensed by the incremental market share of the Parties in the broad market for Production and Supply of Films, theatrical Release in India, as well as narrow segments of English films and Hindi films, is not such as to cause any competition concerns third parties as well.
+
+6.  **Impacts on fixed broadband internet services**
+
+The players in network broadband internet are enormous such as Bharati Airtel, Atria Convergence Technologies, and BSNL, among others. The consumer base is much stronger in this sector because they can shift from one internet service provider to another and due to this the assessment, which is carried out at narrower segments of overlapping circles, cannot cause many concerns to the competition.
+
+7.  **Impact on broadcast TV channel viewership**
+
+The CCI scrutinized the combined market share of the merger and it was established that 20-25% combined market share and 10% incremental share. This was accompanied by other competitors such as DD Free Dish, Sun Direct TV, and many more. This fragmented market has the presence of numerous DTH operators, IPTV operators, etc. This ensures that they must carry obligations to ensure that DPOs provide consumers access to TV channels operated by various broadcasters without any discrimination and due to this the CCI has not found any issues with this segment.
+
+8.  **“Cricket-The bone of contention”**
+
+One of the major issues with this merger is the 80-85% control over broadcasting media such as IPL, ICC matches, and BCCI-organized tournaments which can result in anti-competitive practices ranging from indiscriminate content pricing, restricted customer choice, unfair bidding and even barriers to the negotiation of advertisements. This critical observation led to the intervention of CCI to regulate such a merger because of its potential to create AAEC.
+
+**ROLE OF CCI IN ADDRESSING THIS MERGER**
+
+The Competition Commission of India in its 48-page order has highlighted various instances where this merger can become a threat because of its power to cause appreciable adverse effects. This has been enumerated in the order of CCI where the major concern is about the broadcasting rights of cricket in India.
+
+The stakes in this sector are acquired by the highest bidder and the streaming rights are accorded to them so this makes it impossible to maintain a dynamic outcome of the bidding process. This has led to the notion of abuse of dominance in this sector and because of this, they can charge skyrocketing prices for consumers and advertisers. This monopolistic combination and its adverse effects can be highlighted from the order of the CCI in Zee and Sony merger where smaller entities such as Zee, Sony, etc. have a market share of 15%, and the JV has a market share of 40% while can cause a concentrated market share because of its power. As IPL forms a separate industry as per the CCI order it is in line with the observation of the European Commission which categorized UEFA Champions League to be part of a separate industry and then took a broad approach in addressing the issue. This makes it clear that the joint venture has the power to make anti-competitive agreements.
+
+Due to all these factors the CCI in its detailed order has highlighted that the parties will adhere to the TRAI regulations and will charge the prices that commensurate with industry standards. And there is a ceiling beyond which advertisement prices and prices for consumers cannot increase.
+
+It was established that the proposed combination would abide by the principles of competition neutrality and section 20(4) of the act. This will ensure that voluntary commitments offered by the Parties under Regulation 19(2) and Regulation 25(1A) of the Combination Regulations will not cause AAEC in India. Therefore, the Commission approves the Proposed Combination under Section 31(1) of the Act.
+
+**IMPACTS OF THIS MERGER**
+
+**Positive Impacts**
+
+1.  **Diversity of choice to consumers**: The joint venture promises the audience diverse content in view of the evolving tastes and preferences of Indian audiences.
+2.  **Creation of opportunities**: The merger opens new arenas for innovation in the digital entertainment space by providing streaming services and digital content creation forum, thereby increasing employment opportunities.
+3.  **Rejuvenating the Competition space**: The merger challenges the existing traditional paradigm in the market and sets the landscape for heightened competition.
+4.  **Transcending beyond national borders**– This strategic alliance has the potential to have an impact on the international markets, thereby creating new growth opportunities and offering competition at the global fora.
+
+**Negative impacts**
+
+1.  In the sports market, the merger involves a majority of 120 channels and two OTT platforms; rendering a dominant position in the market and leading to **monopolistic practices**.
+2.  The merger though offering high competition can limit opportunities and create barrier for the entry of new producers and creators.
+3.  The merger also flags **data-privacy concerns** of users as the entity could use user data for advertisement purposes or track user behavior across Disney+ Hotstar, Star India, and other platforms, potentially infringing on user privacy.
+
+**CONCLUSION**
+
+Reliance Industries Ltd. (RIL) has finally completed the integration with Disney. The transformational step in the media and entertainment sector of India is set to redefine the digital content, streaming services, and sports broadcasting space through the alliance with a 60% stake of Reliance Industries Ltd. in the Disney operations of India valued at $8.5 billion. The benefits of this merger are profound: opportunity for enhanced content diversity to satisfy the changing preferences of audiences in India, increased employment, and enhanced global competition in the Indian market. Over and above this, the venture may challenge the hegemony of the well-established players in the market and will bring about technologies at a faster rate and competition.
+
+However, the combination does raise serious questions – especially regarding monopoly in sports broadcasting. A sector wherein the newly formed entity would command an enormous share of cricketing content, this would probably be anti-competitive because prices for advertisers would shoot up and consumer choices would be curtailed. In such a scenario, the Competition Commission of India intervened to impose some regulatory conditions. The CCI looks to maintain a well-balanced competitive environment in its pursuit of enforcing strict adherence to Telecom Regulatory Authority of India (TRAI) standards and industry norms. This merger sets the much-needed precedent, clearly outlining the role of the CCI in managing the delicate balance between industry consolidation and fair competition.
+
+**ENDNOTES**
+
+\[1\] India Approves $8.5bn Reliance-Disney Entertainment Mega-Merger, BBC NEWS, Aug. 29, 2024, at 10:44 PM, [https://www.bbc.com/news/articles/c7v5j5dern7o](https://www.bbc.com/news/articles/c7v5j5dern7o) (last visited Nov. 5, 2024).
+
+\[2\] Nikita Prasad, Reliance-Disney Merger: CCI Approves $8.5-Billion Deal in Detailed Order — Here’s What It Entails, MINT, Oct. 22, 2024, at 7:52 PM, [https://www.livemint.com/companies/news/reliancedisney-merger-cci-approves-8-5-billion-deal-in-detailed-order-tv-ad-slots-for-cricket-to-not-be-bundled-11729606755779.html](https://www.livemint.com/companies/news/reliancedisney-merger-cci-approves-8-5-billion-deal-in-detailed-order-tv-ad-slots-for-cricket-to-not-be-bundled-11729606755779.html) (last visited Nov. 5, 2024).
+
+\[3\] Reliance Industries Ltd. v. Competition Commission of India, Notice under Section 6(2) of the Competition Act, 2002, CORAM: Ms. Ravneet Kaur (Chairperson), Mr. Anil Agrawal, Ms. Sweta Kakkad & Mr. Deepak Anurag, ¶ 46, at 17, Order under Section 31(1) of the Competition Act, 2002 (India).
+
+\[4\] Reliance Industries Ltd. v. Competition Commission of India, Notice under Section 6(2) of the Competition Act, 2002, Combination Registration No. C-2024/05/1155, CORAM: Ms. Ravneet Kaur (Chairperson), Mr. Anil Agrawal, Ms. Sweta Kakkad & Mr. Deepak Anurag, ¶ 54, at 19, Order under Section 31(1) of the Competition Act, 2002, Aug. 27, 2024 (India).
+
+\[5\] Devesh Kumar, How Reliance-Disney Merger Will Change Cricket Streaming in India, MINT, Mar. 1, 2024, [https://www.livemint.com/sports/cricket-news/how-reliance-disney-merger-will-change-cricket-streaming-in-india-11709293266239.html](https://www.livemint.com/sports/cricket-news/how-reliance-disney-merger-will-change-cricket-streaming-in-india-11709293266239.html) (last visited Nov. 5, 2024).
+
+\[6\] Competition Commission of India, Combination Registration No. C-2024/05/1155, Notice under Section 6(2) of the Competition Act, 2002, jointly given by Reliance Industries Ltd., Viacom18 Media Pvt. Ltd., Digitali8 Media Ltd., Star India Pvt. Ltd., & Star Television Prods. Ltd., Aug. 27, 2024 (India).
+
+\[7\] United Nations Conference on Trade and Development, Competition Issues in the Sale of Audiovisual Rights for Major Sporting Events, U.N. Doc. Distr.: General, May 2, 2018, [https://unctad.org/system/files/official-document/ciclpd50\_en.pdf](https://unctad.org/system/files/official-document/ciclpd50_en.pdf) (last visited Nov. 5, 2024).
+
+\[8\] Competition Act, 2002, § 20(4), No. 12, Acts of Parliament, 2002 (India).
+
+\[9\] Competition Act, 2002, § 29(1B), No. 12, Acts of Parliament, 2002 (India).
+
+\[10\] The Strategic Merger of Disney’s India Business with Reliance Industries, REMUNANCE, May 9, 2024, [https://remunance.com/industry-news/the-strategic-merger-of-disneys-india-business-with-reliance-industries/](https://remunance.com/industry-news/the-strategic-merger-of-disneys-india-business-with-reliance-industries/) (last visited Nov. 5, 2024).
+
+\[11\] Koustav Das, Reliance-Disney Merger Cleared, But What Were the Key Concerns, INDIA TODAY (New Delhi), Aug. 29, 2024, at 7:23 PM.
+
+### Share this:
+
+*   [Twitter](https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/?share=twitter "Click to share on Twitter")
+*   [Facebook](https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/?share=facebook "Click to share on Facebook")
+
+Like Loading…
+
+### Leave a comment [Cancel reply](https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/#respond)
+
+   
+
+Δ
+
+←[Previous: Legal Ethics in The Age Of AI, Can Machines Be Ethical Lawyers?](https://ilnusrc.wordpress.com/2024/12/01/legal-ethics-in-the-age-of-ai-can-machines-be-ethical-lawyers/)
+
+[Next: Neurotechnology and Legal Personhood: Navigating the New Frontier](https://ilnusrc.wordpress.com/2024/12/01/neurotechnology-and-legal-personhood-navigating-the-new-frontier/)→
+
+Hello,
+
+### We’re SRC
+
+![Image 4](https://ilnusrc.wordpress.com/wp-content/uploads/2024/10/1000064257_15cb046f11f9d0dcffef56c32a13a252-29_01_2024-14_44_31.png)
+
+Welcome to the Student Research Council blog—a dynamic hub for research students to collaborate and innovate. Join us as we explore cutting-edge topics, share insights, and tackle challenges together. Embracing diverse research interests across sciences, humanities, and social sciences, we aim to inspire curiosity and foster a supportive community. Welcome aboard!
+
+### Let’s connect
+
+*   [Instagram](https://www.instagram.com/src_ilnu?igsh=MWM1NnZnbzIwbGtxag==)
+
+*   [Mail](mailto:src.il@nirmauni.ac.in)
+
+### Stay in tune!
+
+Stay updated with our latest tutorials and ideas by joining our blog website.
+
+Type your email…
+
+→
+
+### Recent posts
+
+*   [How Special Laws Violate Principle Of Presumed Innocence](https://ilnusrc.wordpress.com/2024/12/01/how-special-laws-violate-principle-of-presumed-innocence/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+*   [The Brain On Trial: The Role Of Neuroscience In Criminal Defence](https://ilnusrc.wordpress.com/2024/12/01/the-brain-on-trial-the-role-of-neuroscience-in-criminal-defence/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+*   [Nemo Potest Seipsum Accusare: Unraveling the Ancient Roots of Modern Legal Protections](https://ilnusrc.wordpress.com/2024/12/01/nemo-potest-seipsum-accusare-unraveling-the-ancient-roots-of-modern-legal-protections/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+*   [Fending Balance: Enlarging Right To Life And Liberty With Just Transition](https://ilnusrc.wordpress.com/2024/12/01/fending-balance-enlarging-right-to-life-and-liberty-with-just-transition/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+*   [Destruction Of Marriage: Rape Or Penalization?](https://ilnusrc.wordpress.com/2024/12/01/destruction-of-marriage-rape-or-penalization/)
+    ----------------------------------------------------------------------------------------------------------------------------------------
+    
+*   [Waqf (Amendment) Bill 2024 – A Missed Opportunity?](https://ilnusrc.wordpress.com/2024/12/01/waqf-amendment-bill-2024-a-missed-opportunity/)
+    ---------------------------------------------------------------------------------------------------------------------------------------------
+    
+
+[ILNU SRC Blog](https://ilnusrc.wordpress.com/)
+===============================================
+
+*   [Instagram](https://www.instagram.com/src_ilnu?igsh=MWM1NnZnbzIwbGtxag==)
+*   [Mail](mailto:src.il@nirmauni.ac.in)
+
+*   [About](https://ilnusrc.wordpress.com/about/)
+*   [MembersFaculty coordinator-Dr. Shivani Mehta Chairperson: Prabhav Tripathi Vice Chairperson: Nandini Srivastava Secretary: Aditi Biyani Internal Affairs Head: Khushi Rohatgi Core Members: Srinanda Chatterjee Pratik Ok Kritika Singh Ananya Kaushik Ananya Singh Koustubh Persai Srinivas Iyer Sukhpreet Sodhi Shaunak Saha Tanvesha Golani](https://ilnusrc.wordpress.com/?page_id=37 "Faculty coordinator-Dr. Shivani Mehta Chairperson: Prabhav Tripathi Vice Chairperson: Nandini Srivastava Secretary: Aditi Biyani Internal Affairs Head: Khushi Rohatgi Core Members: Srinanda Chatterjee Pratik Ok Kritika Singh Ananya Kaushik Ananya Singh Koustubh Persai Srinivas Iyer Sukhpreet Sodhi Shaunak Saha Tanvesha Golani")
+*   [Blogs](https://ilnusrc.wordpress.com/?page_id=38)
+*   [Events](https://ilnusrc.wordpress.com/?page_id=39)
+
+Designed with [WordPress](https://wordpress.org/)
+
+ 
+
+[](https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/#)[](https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/#)
+
+Loading Comments...
+
+ 
+
+Write a Comment...
+
+Email (Required) 
+
+Name (Required) 
+
+Website 
+
+[](https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/#)
+
+*   [Comment](https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/#respond)
+*   Reblog
+*   Subscribe Subscribed
+    
+    *    [![Image 5](https://ilnusrc.wordpress.com/wp-content/uploads/2024/10/1000064257_15cb046f11f9d0dcffef56c32a13a252-29_01_2024-14_44_31.png?w=50) ILNU SRC Blog](https://ilnusrc.wordpress.com/)
+    
+        
+    
+    Sign me up
+    
+    *   Already have a WordPress.com account? [Log in now.](https://wordpress.com/log-in?redirect_to=https%3A%2F%2Filnusrc.wordpress.com%2F2024%2F12%2F01%2Freliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape%2F&signup_flow=account)
+        
+    
+*   *    [![Image 6](https://ilnusrc.wordpress.com/wp-content/uploads/2024/10/1000064257_15cb046f11f9d0dcffef56c32a13a252-29_01_2024-14_44_31.png?w=50) ILNU SRC Blog](https://ilnusrc.wordpress.com/)
+    *   [Edit Site](https://ilnusrc.wordpress.com/wp-admin/site-editor.php?postType=wp_template&postId=pub/nook//single)
+    *   Subscribe Subscribed
+    *   [Sign up](https://wordpress.com/start/)
+    *   [Log in](https://wordpress.com/log-in?redirect_to=https%3A%2F%2Filnusrc.wordpress.com%2F2024%2F12%2F01%2Freliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape%2F&signup_flow=account)
+    *   [Copy shortlink](https://wp.me/pg6GSX-1C)
+    *   [Report this content](https://wordpress.com/abuse/?report_url=https://ilnusrc.wordpress.com/2024/12/01/reliance-disney-merger-unpacking-ccis-decision-and-its-impact-on-market-landscape/)
+    *   [View post in Reader](https://wordpress.com/read/blogs/238016199/posts/100)
+    *   [Manage subscriptions](https://subscribe.wordpress.com/)
+    *   Collapse this bar
+    
+
+    
+
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.  
+To find out more, including how to control cookies, see here: [Cookie Policy](https://automattic.com/cookies/)
+
+   
+
+%d
+
+Design a site like this with WordPress.com
+
+[Get started](https://wordpress.com/start/?ref=marketing_bar)[](https://wordpress.com/start/?ref=marketing_bar)

@@ -1,0 +1,168 @@
+Trulia Financials | Craft.co
+===============
+ 
+
+[![Image 1: Craft](https://static.production.craft.co/assets/1f5496de546a603fcc87.svg)](https://craft.co/)
+
+[Advanced](https://craft.co/search?order=size_desc)
+
+Product
+
+Solutions
+
+Partners
+
+Resources
+
+Company
+
+Toggle menu
+
+*   [Home](https://craft.co/)
+*    / [Trulia](https://craft.co/trulia)
+*    / Financials
+
+[](https://craft.co/trulia)Trulia
+
+*   [Overview](https://craft.co/trulia)
+*   [Locations](https://craft.co/trulia/locations)
+*   [Financials](https://craft.co/trulia/financials)
+*   [Operating Metrics](https://craft.co/trulia/operating-metrics)
+*   [Human Capital](https://craft.co/trulia/human-capital)
+*   [Key People](https://craft.co/trulia/executives)
+*   [Competitors](https://craft.co/trulia/competitors)
+*   [Supplier Risk](https://craft.co/trulia/supplier-risk)
+
+[](https://craft.co/trulia)
+
+[Trulia Financials](https://craft.co/trulia)
+============================================
+
+Header placeholder lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[Button CTA](https://craft.co/)
+
+![Image 2: banner](https://static.production.craft.co/assets/35ae28c12330b340b0b5.png)
+
+Trulia financials data including stock price, CreditSafe score, income statement, balance sheet, cash flow, and acquistions and subsidiaries.
+
+Revenue
+
+$251.9 M
+
+FY, 2014
+
+CreditSafe Score
+----------------
+
+?
+
+Score changed on Dec 06, 2024
+
+Premium Content only available in Craft’s Intelligence Portal
+
+View 30+ financial ratio metrics including price-to-earnings ratio, debt-to-assets ratio, gross profit margin, and more.
+
+Financial ratio metrics help evaluate the financial strength of a company, and help raise red flags that can indicate potential risk, fulfillment challenges, or even possible bankruptcy.
+
+[Learn more](https://enterprise.craft.co/solutions/supplier-intelligence?utm_source=craftco&utm_medium=display&utm_campaign=premium_content&utm_content=creditSafe_ad)
+
+Financial Statements
+--------------------
+
+Income StatementBalance SheetCash Flow
+
+AnnualQuarterly
+
+| USD | FY, 2012 | FY, 2013 | FY, 2014 |
+| --- | --- | --- | --- |
+| Revenue | [68.1M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [143.7M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [251.9M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| Revenue growth, % |  | [111.1%](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [75.3%](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| Cost of goods sold | [10.0M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [23.1M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [44.5M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| Gross profit | [58.1M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [120.6M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [207.4M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| Gross profit margin, % | [85.3%](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [83.9%](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [82.3%](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| General and administrative expense | [13.7M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [32.7M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [50.0M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| Operating expense total | [67.6M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [144.7M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [274.9M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| EBIT | [(9.5M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [(24.1M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [(67.5M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| EBIT margin, % | [\-14.0%](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [\-16.8%](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [\-26.8%](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| Interest expense | [1.0M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [1.1M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [7.4M](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| Pre tax profit | [(10.9M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [(25.3M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [(75.3M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| Income tax expense | [67.0K](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [(7.5M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [427.0K](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| Net Income | [(10.9M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [(17.8M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [(75.8M)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+| EPS | [(0.9)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [(0.5)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") | [(2.0)](https://www.sec.gov/Archives/edgar/data/1349454/000119312515070992/d848960d10k.htm "SEC Filings FY 2014") |
+
+Acquisitions & Subsidiaries
+---------------------------
+
+| Company name | Date | Deal size |
+| --- | --- | --- |
+| Lorem | Dec 23, 2021 | $40.0M |
+| Ipsum | Jan 18, 2022 | $30.0M |
+| Lorem Ipsum | Feb 18, 2022 | $25.0M |
+| Dolor | Oct 21, 2021 | $60.0M |
+| 
+Premium Content only available in Craft’s Intelligence Portal
+
+View acquisitions and subsidiaries by company, date, and deal size.
+
+Understanding this data enables better supplier & customer negotiations and helps identify potential opportunities or market risks for your firm.
+
+[Learn more](https://enterprise.craft.co/solutions/supplier-intelligence?utm_source=craftco&utm_medium=display&utm_campaign=premium_content&utm_content=acquisitions_ad)
+
+
+
+
+
+
+
+ |
+
+Footer menu
+-----------
+
+[](https://craft.co/)
+
+*   [Contact us](mailto:hello@craft.co)
+*   [Facebook](https://www.facebook.com/craftdotco)
+*   [Twitter](https://twitter.com/craftdotco)
+*   [LinkedIn](https://www.linkedin.com/company/craft-machine)
+
+### Product
+
+*   Intelligence Suite
+*   [Supplier Intelligence Platform](https://enterprise.craft.co/solutions/supplier-intelligence?utm_source=craftco&utm_medium=footer)
+*   [Craft Intelligence Portal](https://enterprise.craft.co/products/portal?utm_source=craftco&utm_medium=footer)
+*   [Craft API](https://enterprise.craft.co/craft-api?utm_source=craftco&utm_medium=footer)
+*   [Craft for Teams](https://enterprise.craft.co/craft-for-teams?utm_source=craftco&utm_medium=footer)
+*   Supplier Intelligence Platform
+*   [Craft Alerts](https://enterprise.craft.co/products/alerts?utm_source=craftco&utm_medium=footer)
+*   [Craft N-Tier Mapping](https://enterprise.craft.co/products/n-tier?utm_source=craftco&utm_medium=footer)
+*   [Craft Risk Hub](https://enterprise.craft.co/products/risk-hub?utm_source=craftco&utm_medium=footer)
+*   [Chrome extension](https://chrome.google.com/webstore/detail/craft-for-google-chrome/mdbippokgmfmdhhjchjpakgiamkcaofd)
+
+### Solutions
+
+*   [Supplier Intelligence](https://enterprise.craft.co/solutions/supplier-intelligence?utm_source=craftco&utm_medium=footer)
+*   [Sales Intelligence](https://enterprise.craft.co/solutions/sales-intelligence?utm_source=craftco&utm_medium=footer)
+*   [Aerospace and Defense](https://enterprise.craft.co/solutions/aerospace-and-defense?utm_source=craftco&utm_medium=footer)
+
+### Resources
+
+*   [Resource center](https://enterprise.craft.co/resources?utm_source=craftco&utm_medium=footer)
+*   [Blog](https://enterprise.craft.co/blog?utm_source=craftco&utm_medium=footer)
+
+### Company
+
+*   [About](https://enterprise.craft.co/company/about?utm_source=craftco&utm_medium=footer)
+*   [Careers](https://enterprise.craft.co/careers?utm_source=craftco&utm_medium=footer)
+*   [Contact](https://enterprise.craft.co/contact?utm_source=craftco&utm_medium=footer)
+*   [Terms of Service](https://enterprise.craft.co/terms?utm_source=craftco&utm_medium=footer)
+*   [Privacy Policy](https://enterprise.craft.co/privacy?utm_source=craftco&utm_medium=footer)
+*   [Security](https://enterprise.craft.co/security?utm_source=craftco&utm_medium=footer)
+
+© Craft.co 2024
+
+[Share price data provided by IEX](https://iextrading.com/developer/)
+
+Back  
+to top

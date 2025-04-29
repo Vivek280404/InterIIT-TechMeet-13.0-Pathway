@@ -1,0 +1,515 @@
+Indian Telecommunications Industry Analysis Presentation | IBEF
+===============
+
+LOGIN
+
+ 
+
+[](https://www.ibef.org/)
+
+*   [Home](https://www.ibef.org/)
+*   [About us](https://www.ibef.org/about-us)
+    
+    *   [Annual Reports](https://www.ibef.org/annual-report)
+    
+    *   [Board of Trustees](https://www.ibef.org/board-of-trustees)
+    
+    *   [Careers](https://www.ibef.org/careers)
+    
+    *   [Tenders](https://www.ibef.org/partner-with-ibef)
+    
+*   [Indian Economy](https://www.ibef.org/economy)
+    
+    *   [Domestic Investments](https://www.ibef.org/economy/domestic-investments)
+    *   [Economic Survey 2023-24](https://www.ibef.org/economy/economic-survey-2023-24)
+    *   [Foreign Direct Investment](https://www.ibef.org/economy/foreign-direct-investment)
+    *   [Foreign Institutional Investors](https://www.ibef.org/economy/foreign-institutional-investors)
+    *   [Foreign Trade Policy 2023](https://www.ibef.org/economy/foreign-trade-policy-2023)
+    
+    *   [Government Schemes](https://www.ibef.org/economy/government-schemes)
+    *   [India Positive](https://www.ibef.org/economy/india-positive)
+    *   [India: A Snapshot](https://www.ibef.org/economy/indiasnapshot/about-india-at-a-glance)
+    *   [Indian Economy News](https://www.ibef.org/indian-economy-news)
+    *   [Indian Economy Overview](https://www.ibef.org/economy/indian-economy-overview)
+    
+    *   [Indian Investments Abroad](https://www.ibef.org/economy/indian-investments-abroad)
+    *   [Investments](https://www.ibef.org/economy/investments)
+    *   [Make in India](https://www.ibef.org/economy/make-in-india)
+    *   [Monthly Economic Report](https://www.ibef.org/economy/monthly-economic-report)
+    *   [Policy Watch](https://www.ibef.org/news/policy-watch)
+    
+    *   [Quick Facts](https://www.ibef.org/economy/indiasnapshot/facts-about-indian-economy)
+    *   [Startup India](https://www.ibef.org/economy/startup-india)
+    *   [Trade](https://www.ibef.org/economy/trade-and-external-sector)
+    *   [Union Budget 2024-25](https://www.ibef.org/economy/union-budget-2024-25)
+    *   [Useful Links](https://www.ibef.org/economy/directory/india-directory)
+    
+*   [Industry](https://www.ibef.org/industry)
+    
+    *   [Agriculture and Allied Industries](https://www.ibef.org/industry/agriculture-india)
+    *   [Auto Components](https://www.ibef.org/industry/autocomponents-india)
+    *   [Automobiles](https://www.ibef.org/industry/india-automobiles)
+    *   [Aviation](https://www.ibef.org/industry/indian-aviation)
+    *   [Ayush](https://www.ibef.org/industry/ayush)
+    *   [Banking](https://www.ibef.org/industry/banking-india)
+    *   [Biotechnology](https://www.ibef.org/industry/biotechnology-india)
+    *   [Cement](https://www.ibef.org/industry/cement-india)
+    *   [Chemicals](https://www.ibef.org/industry/chemical-industry-india)
+    *   [Consumer Durables](https://www.ibef.org/industry/indian-consumer-market)
+    *   [Defence Manufacturing](https://www.ibef.org/industry/defence-manufacturing)
+    *   [E-Commerce](https://www.ibef.org/industry/ecommerce)
+    
+    *   [Education and Training](https://www.ibef.org/industry/education-sector-india)
+    *   [Electric Vehicle](https://www.ibef.org/industry/electric-vehicle)
+    *   [Electronics System Design & Manufacturing](https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm)
+    *   [Engineering and Capital Goods](https://www.ibef.org/industry/engineering-india)
+    *   [Financial Services](https://www.ibef.org/industry/financial-services-india)
+    *   [FMCG](https://www.ibef.org/industry/fmcg)
+    *   [Food Processing](https://www.ibef.org/industry/food-processing)
+    *   [Gems and Jewellery](https://www.ibef.org/industry/gems-jewellery-india)
+    *   [Healthcare](https://www.ibef.org/industry/healthcare-india)
+    *   [Infrastructure](https://www.ibef.org/industry/infrastructure-sector-india)
+    *   [Insurance](https://www.ibef.org/industry/insurance-sector-india)
+    *   [IT & BPM](https://www.ibef.org/industry/information-technology-india)
+    
+    *   [Manufacturing](https://www.ibef.org/industry/manufacturing-sector-india)
+    *   [Media and Entertainment](https://www.ibef.org/industry/media-entertainment-india)
+    *   [Medical Devices](https://www.ibef.org/industry/medical-devices)
+    *   [Metals and Mining](https://www.ibef.org/industry/metals-and-mining)
+    *   [MSME](https://www.ibef.org/industry/msme)
+    *   [Oil and Gas](https://www.ibef.org/industry/oil-gas-india)
+    *   [Paper & Packaging](https://www.ibef.org/industry/paper-packaging)
+    *   [Pharmaceuticals](https://www.ibef.org/industry/pharmaceutical-india)
+    *   [Ports](https://www.ibef.org/industry/ports-india-shipping)
+    *   [Power](https://www.ibef.org/industry/power-sector-india)
+    *   [Railways](https://www.ibef.org/industry/indian-railways)
+    *   [Real Estate](https://www.ibef.org/industry/real-estate-india)
+    
+    *   [Renewable Energy](https://www.ibef.org/industry/renewable-energy)
+    *   [Retail](https://www.ibef.org/industry/retail-india)
+    *   [Roads](https://www.ibef.org/industry/roads-india)
+    *   [Science and Technology](https://www.ibef.org/industry/science-and-technology)
+    *   [Services](https://www.ibef.org/industry/services)
+    *   [Steel](https://www.ibef.org/industry/steel)
+    *   [Telecommunications](https://www.ibef.org/industry/telecommunications)
+    *   [Textiles](https://www.ibef.org/industry/textiles)
+    *   [Tourism and Hospitality](https://www.ibef.org/industry/tourism-hospitality-india)
+    
+*   [States/UT](https://www.ibef.org/states)
+    
+    *   [Andaman and Nicobar](https://www.ibef.org/states/andaman-nicobar)
+    *   [Andhra Pradesh](https://www.ibef.org/states/andhra-pradesh)
+    *   [Arunachal Pradesh](https://www.ibef.org/states/arunachal-pradesh)
+    *   [Assam](https://www.ibef.org/states/assam)
+    *   [Bihar](https://www.ibef.org/states/bihar)
+    *   [Chandigarh](https://www.ibef.org/states/chandigarh)
+    *   [Chhattisgarh](https://www.ibef.org/states/chhattisgarh)
+    *   [Dadra & Nagar Haveli and Daman & Diu](https://www.ibef.org/states/dadra-nagar-haveli-and-daman-diu)
+    *   [Delhi](https://www.ibef.org/states/delhi)
+    
+    *   [Goa](https://www.ibef.org/states/goa)
+    *   [Gujarat](https://www.ibef.org/states/gujarat)
+    *   [Haryana](https://www.ibef.org/states/haryana)
+    *   [Himachal Pradesh](https://www.ibef.org/states/himachal-pradesh)
+    *   [Jammu and Kashmir](https://www.ibef.org/states/jammu-kashmir)
+    *   [Jharkhand](https://www.ibef.org/states/jharkhand)
+    *   [Karnataka](https://www.ibef.org/states/karnataka)
+    *   [Kerala](https://www.ibef.org/states/kerala)
+    *   [Ladakh](https://www.ibef.org/states/ladakh)
+    
+    *   [Lakshadweep](https://www.ibef.org/states/lakshadweep)
+    *   [Madhya Pradesh](https://www.ibef.org/states/madhya-pradesh)
+    *   [Maharashtra](https://www.ibef.org/states/maharashtra)
+    *   [Manipur](https://www.ibef.org/states/manipur)
+    *   [Meghalaya](https://www.ibef.org/states/meghalaya)
+    *   [Mizoram](https://www.ibef.org/states/mizoram)
+    *   [Nagaland](https://www.ibef.org/states/nagaland)
+    *   [Odisha](https://www.ibef.org/states/odisha)
+    *   [Puducherry](https://www.ibef.org/states/puducherry)
+    
+    *   [Punjab](https://www.ibef.org/states/punjab)
+    *   [Rajasthan](https://www.ibef.org/states/rajasthan)
+    *   [Sikkim](https://www.ibef.org/states/sikkim)
+    *   [Tamil Nadu](https://www.ibef.org/states/tamil-nadu)
+    *   [Telangana](https://www.ibef.org/states/telangana)
+    *   [Tripura](https://www.ibef.org/states/tripura)
+    *   [Uttar Pradesh](https://www.ibef.org/states/uttar-pradesh)
+    *   [Uttarakhand](https://www.ibef.org/states/uttarakhand)
+    *   [West Bengal](https://www.ibef.org/states/west-bengal)
+    
+*   [Exports](https://www.ibef.org/exports)
+    
+    *   [Export By Products](https://www.ibef.org/export-products)
+    *   [Export By Country](https://www.ibef.org/indian-exports)
+    
+    *   [Agriculture and Food](https://www.ibef.org/exports/agriculture-and-food-industry-india)
+    *   [Apparel](https://www.ibef.org/exports/apparel-industry-india)
+    *   [Carpets](https://www.ibef.org/exports/carpet-industry-in-india)
+    *   [Cashew](https://www.ibef.org/exports/cashew-industry-india)
+    *   [Chemicals](https://www.ibef.org/exports/chemical-industry-india)
+    *   [Coconut](https://www.ibef.org/exports/coconut-industry-india)
+    *   [Coffee](https://www.ibef.org/exports/coffee-industry-in-india)
+    *   [Coir](https://www.ibef.org/exports/coir-industry-india)
+    
+    *   [Cotton](https://www.ibef.org/exports/cotton-industry-india)
+    *   [Electronic and Computer Software](https://www.ibef.org/exports/electronic-and-computer-software-industry-in-india)
+    *   [Engineering](https://www.ibef.org/exports/engineering-goods-exports-from-india)
+    *   [Gems and Jewellery](https://www.ibef.org/exports/gems-and-jewellery-export)
+    *   [Handicrafts](https://www.ibef.org/exports/handicrafts-industry-india)
+    *   [Handloom](https://www.ibef.org/exports/handloom-industry-india)
+    *   [Jute](https://www.ibef.org/exports/jute-industry-india)
+    *   [Leather](https://www.ibef.org/exports/leather-industry-india)
+    
+    *   [Marine Products](https://www.ibef.org/exports/marine-products-industry-india)
+    *   [Oilseeds](https://www.ibef.org/exports/oilseeds-industry-india)
+    *   [Pharmaceutical](https://www.ibef.org/exports/pharmaceutical-exports-from-india)
+    *   [Plastics](https://www.ibef.org/exports/plastic-industry-india)
+    *   [Powerloom](https://www.ibef.org/exports/powerloom-industry-in-india)
+    *   [Services](https://www.ibef.org/exports/services-industry-india)
+    *   [Shellac and Forest Products](https://www.ibef.org/exports/shellac-forest-products-industry-india)
+    *   [Silk](https://www.ibef.org/exports/indian-silk-industry)
+    
+    *   [Spices](https://www.ibef.org/exports/spice-industry-india)
+    *   [Sports](https://www.ibef.org/exports/sports-industry-india)
+    *   [Synthetic and Rayon Textiles](https://www.ibef.org/exports/synthetic-and-rayon-textiles)
+    *   [Tea](https://www.ibef.org/exports/indian-tea-industry)
+    *   [Tobacco](https://www.ibef.org/exports/tobacco-industry-india)
+    *   [Wool](https://www.ibef.org/exports/wool-industry-india)
+    *   [Wool and Woollen](https://www.ibef.org/exports/wool-and-woollen)
+    
+    *   [Australia](https://www.ibef.org/indian-exports/india-australia-trade)
+    *   [Bangladesh](https://www.ibef.org/indian-exports/india-bangladesh-trade)
+    *   [Belgium](https://www.ibef.org/indian-exports/india-belgium-trade)
+    *   [Canada](https://www.ibef.org/indian-exports/india-canada-trade)
+    *   [China](https://www.ibef.org/indian-exports/india-china-trade)
+    *   [France](https://www.ibef.org/indian-exports/india-france-trade)
+    
+    *   [Germany](https://www.ibef.org/indian-exports/india-germany-trade)
+    *   [Hong Kong](https://www.ibef.org/indian-exports/india-hong-kong-trade)
+    *   [Indonesia](https://www.ibef.org/indian-exports/india-indonesia-trade)
+    *   [Israel](https://www.ibef.org/indian-exports/india-israel-trade)
+    *   [Italy](https://www.ibef.org/indian-exports/india-italy-trade)
+    *   [Japan](https://www.ibef.org/indian-exports/india-japan-trade)
+    
+    *   [Korea](https://www.ibef.org/indian-exports/india-korea-trade)
+    *   [Malaysia](https://www.ibef.org/indian-exports/india-malaysia-trade)
+    *   [Netherlands](https://www.ibef.org/indian-exports/india-netherlands-trade)
+    *   [Russia](https://www.ibef.org/indian-exports/india-russia-trade)
+    *   [Saudi Arabia](https://www.ibef.org/indian-exports/india-saudi-arabia-trade)
+    *   [Singapore](https://www.ibef.org/indian-exports/india-singapore-trade)
+    
+    *   [South Africa](https://www.ibef.org/indian-exports/india-south-africa-trade)
+    *   [Thailand](https://www.ibef.org/indian-exports/india-thailand-trade)
+    *   [Turkey](https://www.ibef.org/indian-exports/india-turkey-trade)
+    *   [UAE](https://www.ibef.org/indian-exports/india-uae-trade)
+    *   [US](https://www.ibef.org/indian-exports/india-us-trade)
+    *   [Vietnam](https://www.ibef.org/indian-exports/india-vietnam-trade)
+    
+*   [Blog](https://www.ibef.org/blogs)
+*   [Contact](https://www.ibef.org/contact-us)
+
+[](https://www.ibef.org/industry/indian-telecommunications-industry-analysis-presentation#)
+
+[More](https://www.ibef.org/industry/indian-telecommunications-industry-analysis-presentation#)
+
+#### [Research](https://www.ibef.org/research)
+
+*   [Case Studies](https://www.ibef.org/research/case-study)
+*   [EXIM Procedure](https://www.ibef.org/research/export-import-procedure)
+
+#### [Media & Events](https://www.ibef.org/mediaevents)
+
+*   [Events](https://www.ibef.org/mediaevents/events)
+*   [Films](https://www.ibef.org/mediaevents/films)
+*   [Image Gallery](https://www.ibef.org/mediaevents/image-gallery)
+*   [Media Coverage](https://www.ibef.org/mediaevents/mediacoverage)
+*   [Posters](https://www.ibef.org/mediaevents/posters)
+
+#### Other Links
+
+*   [Tenders](https://www.ibef.org/partner-with-ibef)
+*   [Archive](https://www.ibef.org/archives)
+
+#### Campaigns
+
+*   [Discover India](https://www.ibef.org/discover-india)
+*   [GI of India](https://www.ibef.org/giofindia)
+*   [Experience India](https://www.ibef.org/experience-india)
+*   [Indian Trend Fair 2022](https://www.ibef.org/itf)
+*   [India Organic Biofach 2022](https://www.ibef.org/indianrice)
+*   [Gulfood Dubai 2023](https://www.ibef.org/gulfood2023)
+
+Indian Telecom Industry Analysis
+================================
+
+India plans to manufacture mobile phones worth US$ 126 billion by 2025-26.
+--------------------------------------------------------------------------
+
+Advantage India
+---------------
+
+### Robust  
+Demand
+
+\*In India, the total telephone subscriber base stood at 1,203.69 million in May 2024. Tele-density of rural subscribers reached 59.59% as of May 2024.
+
+\* Total volume of wireless data usage increased by more than 10 folds from 4,206 petabytes in Q1, FY18 to 47,629 petabytes in Q2, FY24.
+
+\*Also, India is one of the biggest consumer of data worldwide. As per TRAI, average wireless data usage per wireless data subscriber was 19.47 GB per month in December 2023 from 61.66 MB in March 2014.​
+
+![Image 1](https://www.ibef.org/assets/images/robust-icon.png)
+
+### Attractive  
+Opportunities
+
+\*India's 5G subscriptions to have 350 million by 2026, accounting for 27% of all mobile subscriptions.
+
+\* The value of export of mobile phones in FY24 increased by 42% reaching at US$ 15.6 billion.
+
+\* By 2025, India will need ~22 million skilled workers in 5G-centric technologies such as Internet of Things (IoT), Artificial Intelligence (AI), robotics and cloud computing.
+
+\* India ranks 2nd in "international mobile broadband internet traffic" and "international Internet bandwidth.""
+
+![Image 2](https://www.ibef.org/assets/images/attractive-icon.png)
+
+### Policy  
+support
+
+\*The Union Cabinet approved Rs. 12,195 crore (US$ 1.65 billion) production-linked incentive (PLI) scheme for telecom & networking products under the Department of Telecom. On December 2022, 42 companies have committed an investment Rs. 4,115 crore (US$ 502.95 million) comprising 28 MSMEs and 14 Non-MSMEs (eight domestic and seven global companies) approved under the PLI Scheme. To drive the development of 6G technology, the Department of Telecommunications (DoT) has developed a sixth-generation (6G) innovation group.
+
+![Image 3](https://www.ibef.org/assets/images/policy-icon.png)
+
+### Increasing  
+Investments
+
+\*In Union Budget 2024-25 the Department of Telecommunications and IT was allocated Rs. 116,342 crore (US$ 13.98 billion).
+
+\*FDI inflow in the telecom sector stood at US$ 39.32 billion between April 2000- March 2024.​
+
+\*The PLI plan for Large Scale Electronics Manufacturing received about Rs. 4,700 crore (US$ 569.49 million) in investment as of September 2022.
+
+![Image 4](https://www.ibef.org/assets/images/competitive-icon.png)
+
+[Snapshot](https://www.ibef.org/industry/telecommunications) [Showcase](https://www.ibef.org/industry/telecommunications/showcase) [Infographics](https://www.ibef.org/industry/telecommunications/infographic) [Reports](https://www.ibef.org/industry/indian-telecommunications-industry-analysis-presentation) Related News
+
+Last updated: Oct, 2024
+
+[#### Telecommunications Industry Report Aug, 2024](https://www.ibef.org/industry/indian-telecommunications-industry-analysis-presentation#)
+
+India is the world's second-largest telecommunications market. As of May 2024, tele-density stood at 85.87%. In India, the total telephone subscriber base stood at 1,203.69 million in May 2024.
+
+As of May 2024, the wireless subscriber base of Jio stood at 474.61 million, followed by Bharti Airtel 387.76 million, Vodafone Idea 218.15 million, and BSNL 86.32 million.
+
+Wired broadband subscribers stood at 41.31 million as of May 2024.
+
+The number of wired broadband subscriptions stood at 40.06 million in FY24. The number of wired broadband subscriptions stood at 40.06 million in FY24. Wireless broadband subscribers stood at 884.01 million in FY24. As of March 2024, the top five service providers were as follows: Reliance Jio Infocom Ltd stood at 469.73 million, followed by Bharti Airtel 265.50 million, Vodafone Idea 127.69 million, and BSNL 20.65 million.
+
+In April-December 2024 India’s Internet subscribers reached 936.16 million of which 38.57 million were wired subscribers and 897.59 million were wireless internet subscribers.
+
+India is also the second-largest country in terms of internet subscribers. India is one of the biggest consumers of data worldwide. India was the second-largest market for Google Play in 2019 and was estimated to grow at a compound annual growth rate (CAGR) of 11% between 2018 to 2022. In 2020, India accounted for 14% of the global app installs. Indians downloaded over 28 billion apps on their mobiles in 2022 and accounted for 5% of the 625 billion downloads globally. App downloads in the country increased from 12.07 billion in 2017 to 19 billion in 2019. The Government of India intends to establish one hundred labs for creating applications using 5G services in engineering universities as part of the Union Budget 2023, in order to realize a new range of possibilities, business models, and job potential.
+
+The aggregated data consumed as of December 2023, was 50,00,047 GB. The total wireless data usage in India grew at a rate of 4.01% from 47,629 PB in September 2023 to 49,543 PB in December 2023. Out of total data wireless usage, 2G data usage was 45 PB, 3G data usage was 324 PB, 4G data usage was 42,935 and 5G data usage was 6,239 PB during the (April 2023- December 2023) quarter. The contribution of 2G, 3G, 4G and 5G data usage to the total volume of wireless data usage was at 0.09%, 0.65%, 86.66% and 12.59% for quarter ended June 2023.
+
+During FY24, the gross revenue from the telecom sector stood at Rs. 2.4 lakh crore (US$ 29.00 billion). Also, Gross revenue of the telecom sector stood at Rs. 84,500 crore (US$ 10.12 billion) in the third quarter of FY24. Strong policy support from the Government has been crucial to the sector’s development. Foreign Direct Investment (FDI) cap in the telecom sector increased to 100% from 74%. In October 2021, the government notified 100% foreign direct investment (FDI) via the automatic route from the previous 49% in the telecommunications sector.
+
+FDI inflow in the telecom sector stood at US$ 39.32 billion between April 2000- March 2024.
+
+To make India 5G-ready, there's a push for fiberisation of telecom towers. Currently, 36% of towers are fiberized, and plans involve deploying 12 lakh towers.
+
+The CCI has granted approval for Data infrastructure trust to acquire 100% of the share capital of ATC telecom infrastructure Private Limited, along with certain related transactions.
+
+India's Bharat 6G alliance and the European telecom industry organization Industry are planning to establish a partnership. This partnership will facilitate cooperation between the two groups in the development of 6G technology.
+
+In May 2023, STT GDC invested Rs. 2,000 crore (US$ 242.33 million) in two more data centres in Pune.
+
+As of March 2023, Jio partnered with EESL to provide 1 million smart prepaid meters in Bihar.
+
+In February 2022, Bharti Airtel acquired 10% strategic stake in a Singapore-based start-up, Aqilliz.
+
+In January 2022, Google made a US$ 1 billion investment in Airtel through the India Digitization Fund.
+
+According to a Zenith Media survey, India is expected to become the fastest-growing telecom advertisement market, with an annual growth rate of 11% between 2020 and 2023.
+
+The Government of India, through its National Digital Communications Policy, foresee investment worth US$ 100 billion in the telecommunications sector by 2022. The government is encouraging global telecom network manufacturers such as Ericsson, Nokia, Samsung, and Huawei to manufacture all their equipment in India with 100% local products. The Rs. 12,195 crore (US$ 1.65 billion) production-linked incentive (PLI) scheme already triggered the entry of several global players manufacturing mobile devices and components. European telecom gear vendors like Ericsson and Nokia are eager to expand their existing operations in India for a global supply chain under the PLI scheme. Similarly, global vendors like Samsung, Cisco, Ciena, Jabil, Foxconn, Sanmina, and Flex have shown interest in setting up manufacturing in India for telecom and networking products under the newly announced PLI scheme.
+
+As of March 2023, the PLI scheme for Large-Scale Electronics Manufacturing (LSEM) attracted investment of Rs. 5,998 crore (US$ 726.77 million) and led to a total production of Rs. 2,76,903 crore (US$ 33.55 billion), including exports of Rs. 1,28,886 crore (US$ 15.61 billion).
+
+In March 2021, TEPC (Telecom Equipment Export Promotion Council) organised India Telecom 2021—a platform for convergence of technologies and business exchange.
+
+In July 2021, Bharat Broadband Network Limited (BBNL), on behalf of the Department of Telecommunication, invited global tender for the development of BharatNet through the Public-private Partnership model in 9 separate packages across 16 states for a concession period of 30 years. Under this project, the government provided a maximum grant of Rs. 19,041 crore (US$ 2.56 billion) as viability gap funding.
+
+In August 2021, the Department of Telecommunications (DoT) officials stated that it is working on a package, which includes reducing the revenue share licence fee to 6% of the adjusted gross revenue (AGR) of the operators from the current 8%. This would be done by reducing the 5% universal service obligation levy by two percentage points and providing relief of about Rs. 3,000 crore (US$ 403.63 million) annually to the operators.
+
+In October 2021, Telecom Secretary Mr. K. Rajaraman inaugurated the Quantum Communication Lab at the Centre for Development of Telematics (C-DOT), Delhi, and unveiled the indigenously developed Quantum Key Distribution (QKD) solution by C-DOT. QKD can support a distance of >100 kms on standard optical fibre.
+
+The Union Cabinet approved Rs. 12,195 crore (US$ 1.65 billion) production-linked incentive (PLI) scheme for telecom & networking products under the Department of Telecom.
+
+**_Note:_** _F- Forecast, PB - Petabytes_
+
+[#### Telecommunications Industry Report Aug, 2024](https://www.ibef.org/industry/indian-telecommunications-industry-analysis-presentation#)
+
+Related News
+============
+
+[MORE](https://www.ibef.org/news/industry-news/telecommunications)
+
+4 Dec 24
+
+[India nearing self-reliance in strategic navigation with Navigation with Indian Constellation (NavIC): In-SPACe... India’s NavIC satellite system enhances self-reliance in navigation for defence, civilian, and industrial needs, ensuring independence from global systems like GPS, as highlighted by In-SPACe Chairperson Mr. Pawan Goenka.](https://www.ibef.org/news/india-nearing-self-reliance-in-strategic-navigation-with-navigation-with-indian-constellation-navic-in-space)
+
+27 Nov 24
+
+[Number of 5G subscribers in India may triple to 970 million by 2030: Report... India's 5G subscriber base is expected to triple to 970 million by 2030, driven by growing demand for Generative AI applications and increased reliance on 5G networks, according to Ericsson's ConsumerLab report.](https://www.ibef.org/news/number-of-5g-subscribers-in-india-may-triple-to-970-million-by-2030-report)
+
+26 Nov 24
+
+[Digital growth to create one lakh new fibre tech jobs in India in five years... India’s telecom sector is set to create one lakh jobs in fibre installation and maintenance, driven by the expansion of broadband and 5G networks, with the market growing from US$ 48.61 billion (Rs. 4,09,685 crore) in FY24 to US$ 76.16 billion (Rs. 6,41,876 crore) by FY29.](https://www.ibef.org/news/digital-growth-to-create-one-lakh-new-fibre-tech-jobs-in-india-in-five-years) 
+
+22 Nov 24
+
+[AI, 5G, cloud drive India's data centre surge, push institutional investments... India's data centre industry is set for rapid growth, driven by AI, cloud adoption, and 5G, with a projected 66% increase in capacity by 2026 and US$ 4 billion (Rs. 33,772 crore) in investment.](https://www.ibef.org/news/ai-5g-cloud-drive-india-s-data-centre-surge-push-institutional-investments)
+
+14 Nov 24
+
+[Emerging tech to create 2.7 million new AI jobs in India, retail to lead: report... Emerging technologies are set to drive significant job growth in India, with 2.73 million new tech positions and key sectors like retail, manufacturing, education, and healthcare adding millions of jobs by 2028.](https://www.ibef.org/news/emerging-tech-to-create-2-7-million-new-ai-jobs-in-india-retail-to-lead-report)
+
+### Telecommunication India
+
+![Image 5: Telecommunications in India](https://www.ibef.org/uploads/industry/telecommunications.png)
+
+### Industry Contacts
+
+*   [Department of Telecommunication](http://www.dot.gov.in/)
+*   [Association Of Competitive Telecom Operators (ACTO)](http://www.acto.in/)
+*   [Internet & Mobile Association Of India (IAMAI)](http://www.iamai.in/)
+
+### Posters
+
+[MORE](https://www.ibef.org/posters/telecommunications)
+
+![Image 6: CONNECTING THE DOTS](https://www.ibef.org/uploads/industry/telecommunication_09-03-2022.jpg)
+
+[#### CONNECTING THE DOTS](https://www.ibef.org/posters/telecommunications)India is the second largest telecom market in the world.
+
+### IBEF Campaigns
+
+[MORE](https://www.ibef.org/mediaevents/events)
+
+[![Image 7: Discover India 2024](https://www.ibef.org/uploads/images/event1728469063discover_india_event.jpg)](https://www.ibef.org/discover-india)[#### Discover India 2024](https://www.ibef.org/discover-india)APEDA is organizing participation in SIAL Paris 2024 scheduled to be held f...
+
+[![Image 8: Aatmanirbhar Bharat Utsav 2024](https://www.ibef.org/uploads/images/event1721372274Aatmanirbhar_Bharat_Utsav_2024.jpg)](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1992950)[#### Aatmanirbhar Bharat Utsav 2024](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1992950)Union Minister of External Affairs, Dr. S. Jaishankar and Union Commerce an...
+
+### Case Studies
+
+[MORE](https://www.ibef.org/research/case-study)
+
+#### [Hydrogen Energy in India: Roadmap and Implementation of the National Hydrogen Mission](https://www.ibef.org/research/case-study/hydrogen-energy-in-india-roadmap-and-implementation-of-the-national-hydrogen-mission)
+
+[![Image 9: Hydrogen Energy in India: Roadmap and Implementation of the National Hydrogen Mission](https://www.ibef.org/uploads/commonModules/1732163792_50a3c340c994970773a5.png)](https://www.ibef.org/research/case-study/hydrogen-energy-in-india-roadmap-and-implementation-of-the-national-hydrogen-mission)
+
+Hydrogen energy is emerging as a pivotal piece in the global shift towards sustainable energy solutions, particularly as the world grapples with an ur...
+
+#### [Driving Progress Innovation and Expansion in the Indian Railways System](https://www.ibef.org/research/case-study/driving-progress-innovation-and-expansion-in-the-indian-railways-system)
+
+[![Image 10: Driving Progress Innovation and Expansion in the Indian Railways System](https://www.ibef.org/uploads/commonModules/1730961138_3aa76b098dbd8528ba3c.png)](https://www.ibef.org/research/case-study/driving-progress-innovation-and-expansion-in-the-indian-railways-system)
+
+Indian Railways, the fourth-largest national railway system in the world, plays a pivotal role in India's transportation, infrastructure, and econ...
+
+#### [Critical Mineral Imports and India's Green Energy Transition](https://www.ibef.org/research/case-study/critical-mineral-imports-and-india-s-green-energy-transition)
+
+[![Image 11: Critical Mineral Imports and India's Green Energy Transition](https://www.ibef.org/uploads/commonModules/1729683358_1cab48555457d1391dcb.png)](https://www.ibef.org/research/case-study/critical-mineral-imports-and-india-s-green-energy-transition)
+
+India, world's third-largest consumer of energy, is moving towards a greener, sustainable energy landscape. Global climate obligations, lower depe...
+
+IBEF BLOG
+=========
+
+[MORE](https://www.ibef.org/blogs)
+
+[![Image 12: India’s Textile Industry: Embracing Sustainability and Innovation](https://www.ibef.org/uploads/blog/1732870660_af89c35dd9c2ffd9afce.png)](https://www.ibef.org/blogs/india-s-textile-industry-embracing-sustainability-and-innovation)
+
+29 Nov 2024
+
+### [India’s Textile Industry: Embracing Sustainability and Innovation](https://www.ibef.org/blogs/india-s-textile-industry-embracing-sustainability-and-innovation)
+
+The Indian textile industry has been an important part of the economy and c...
+
+[![Image 13: Green Architecture: India's Push Towards Eco-Friendly Buildings and Sustainable Urban Development](https://www.ibef.org/uploads/blog/1732870616_de3fa9ff62b2a6b19394.jpg)](https://www.ibef.org/blogs/green-architecture-india-s-push-towards-eco-friendly-buildings-and-sustainable-urban-development)
+
+28 Nov 2024
+
+### [Green Architecture: India's Push Towards Eco-Friendly Buildings and Sustainable Urban Development](https://www.ibef.org/blogs/green-architecture-india-s-push-towards-eco-friendly-buildings-and-sustainable-urban-development)
+
+In India, a modern approach to architecture is gaining momentum, one that a...
+
+[![Image 14: Decoding the Success of the Interior Design Industry in India](https://www.ibef.org/uploads/blog/1732167588_d49f9fa64ccc387c4098.png)](https://www.ibef.org/blogs/decoding-the-success-of-the-interior-design-industry-in-india)
+
+22 Nov 2024
+
+### [Decoding the Success of the Interior Design Industry in India](https://www.ibef.org/blogs/decoding-the-success-of-the-interior-design-industry-in-india)
+
+Interior design encompasses understanding, organising and enhancing the int...
+
+##### Partners
+
+[![Image 15: Swatch Bharat](https://www.ibef.org/assets/images/swatch-bharat.png)](https://swachhbharatmission.ddws.gov.in/)
+
+[![Image 16: Digital India Logo](https://www.ibef.org/assets/images/digital-india.png)](https://www.digitalindia.gov.in/)
+
+[![Image 17: GEM - Government e Marketplace](https://www.ibef.org/assets/images/gem.png)](https://gem.gov.in/)
+
+[![Image 18: India Govt - National Portal of India](https://www.ibef.org/assets/images/india-govt.png)](https://www.india.gov.in/)
+
+![Image 19: India Brand Equity Foundation](https://www.ibef.org/assets/images/footer-logo.png)
+
+Address: 16th Floor, Dr Gopal Das Bhawan  
+28, Barakhamba Road  
+New Delhi - 110001 INDIA
+
+Tel No : [+91 11 43845501](javascript:void\(0\))
+
+E-mail: [info.brandindia@ibef.org](mailto:info.brandindia@ibef.org)
+
+[](https://www.facebook.com/IBEFIndia)[](https://twitter.com/Brands_India)[](https://www.youtube.com/channel/UCK9JWG9oUua8dhoFTlGuWQw)[](https://www.instagram.com/ibef_india/)
+
+### Quick Links
+
+*   [Brand India](https://www.ibef.org/)
+*   [Indian Economy](https://www.ibef.org/economy)
+*   [Industry](https://www.ibef.org/industry)
+*   [Exports](https://www.ibef.org/exports)
+*   [States/UT](https://www.ibef.org/states)
+
+*   [Research](https://www.ibef.org/research)
+*   [Media & Events](https://www.ibef.org/mediaevents)
+*   [About IBEF](https://www.ibef.org/about-us)
+*   [Contact us](https://www.ibef.org/contact-us)
+*   [Sitemap](https://www.ibef.org/sitemap)
+
+*   [Privacy Policy](https://www.ibef.org/privacypolicy)
+*   [Disclaimer](https://www.ibef.org/disclaimer)
+*   [Terms of Use](https://www.ibef.org/download/IBEF-Website-Terms-of-Use-04-2014.pdf)
+*   [National Portal – My Gov](https://mygov.in/)
+*   [Citizens’ Charters](http://goicharters.nic.in/)
+
+All material, information, data, images or content on this website is subject to copyright or other applicable intellectual property laws and no part of it can be reproduced in any form (including paper or electronic form) without prior written consent and approval from IBEF. Infringements are subject to prosecution under the applicable laws. For consent related queries and conditions, please write to info.brandindia@ibef.org
+
+![Image 20: GOI](https://www.ibef.org/assets/images/government-of-india.jpg)
+
+Copyright © 2010-2024 India Brand Equity Foundation
+
+Loading...
+
+![Image 21: IBEF Login](https://www.ibef.org/assets/images/loginImg.jpg)
+
+### LOGIN
+
+[Forgot password](https://www.ibef.org/user/forget)
+
+Security Captcha \*
+
+ Remember me
+
+Not a member
+
+[Sign Up](https://www.ibef.org/user/signup)
