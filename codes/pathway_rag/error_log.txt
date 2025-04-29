@@ -1,0 +1,4 @@
+<pathway.Table schema={'0': numpy.ndarray[typing.Any, numpy.dtype[typing.Any]], '1': <class 'pathway.internals.json.Json'>}>
+<pathway.Table schema={'0': <class 'pathway.engine.Pointer'>}>
+<pathway.Table schema={'0': <class 'str'>, '1': <class 'pathway.internals.json.Json'>}>
+<pathway.Table schema={'0': numpy.ndarray[typing.Any, numpy.dtype[typing.Any]], '1': <class 'pathway.internals.json.Json'>}>
