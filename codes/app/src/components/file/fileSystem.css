@@ -1,0 +1,26 @@
+.uploadButtonStyle{
+  display: "block";
+  margin: "0 auto 20px";
+  padding: "10px";
+  background-color: "#3498db";
+  color: "white";
+  border: "none";
+  border-radius: "5px";
+  cursor: "pointer";
+}
+
+.folderNodeStyle{
+  display: "flex";
+  align-items: "center";
+  padding: "8px 0";
+  cursor: "pointer";
+  transition: "background-color 0.3s ease";
+}
+
+.fileNodeStyle{
+  display: "flex";
+  align-items: "center";
+  padding: "6px 0";
+  cursor: "pointer";
+  transition: "background-color 0.3s ease";
+}

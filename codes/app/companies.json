@@ -1,0 +1,7 @@
+[
+    {
+        "company_name": "United Airlines",
+        "ticker_symbol": "UAL",
+        "file_path": "src/United_Airlines_stock_data.csv"
+    }
+]

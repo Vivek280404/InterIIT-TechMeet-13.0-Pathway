@@ -1,0 +1,137 @@
+/* Base styling for the main container */
+.graph-main {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  transition: all 0.5s ease;
+
+}
+
+/* Graph bar container */
+.graph-bar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 500px; /* Fixed width */
+  background-color: white;
+  transform: translateX(100%); /* Initially hidden (off-screen) */
+  transition: transform 0.5s ease;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  flex-direction: column;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.graph-bar.open {
+  transform: translateX(0); /* Moves into view */
+}
+
+/* Toggle button styling */
+.toggle-button {
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 100px;
+  right: 0;
+  background: -webkit-linear-gradient(96deg,#315aa0,#4d4feb);
+  color: white;
+  height: 60px;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 10px;
+  cursor: pointer;
+  transition: transform 0.5s ease, right 0.5s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transform: translateX(0); /* Default position */
+}
+
+.toggle-button.open {
+  transform: translateX(-500px); /* Moves left with the graph bar */
+}
+
+/* Buttons container inside the graph bar */
+.buttons-container {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  flex-direction: row;
+  width: 500px;
+}
+
+/* Graph button styling */
+.graph-button {
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 80%;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.graph-button.on {
+  background: -webkit-linear-gradient(96deg,#315aa0,#4d4feb);
+}
+
+.graph-button.off {
+  background-color: #f0f0f0; /* "Off" state */
+  color: black;
+}
+
+.details{
+  animation: fadeIn 0.7s;
+}
+
+.buttons-container{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 500px;
+}
+
+.graph-bar{
+  overflow: scroll;
+}
+
+.graph-render{
+  position: fixed;
+  top: 50px;
+}
+
+.chart-container {
+  position: fixed;
+  top: 100px;
+  width: 100%;
+  height: 600px;
+}
+
+.csv-render{
+  margin-top: 40px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+td{
+  padding: 4px;
+  font-size: small;
+}
+
+th {
+  background: -webkit-linear-gradient(96deg,#315aa0,#4d4feb);
+  color: white;
+}

@@ -1,0 +1,242 @@
+@keyframes close {
+    from {
+        width:200px;
+    }
+    to{
+        width: 120px;
+    }
+}
+
+@keyframes openn {
+    from {
+        width:120px;
+    }
+    to{
+        width: 200px;
+    }
+}
+
+
+.sidebar {
+    width: 200px;
+    min-height: 100vh;
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding: 8px 20px;
+    /* transition: transform 1s ease-in-out; */
+    overflow: hidden;
+    transition: width 0.2s ease-in-out;
+}
+
+.sidebar .recent{
+    overflow-y: auto !important;
+    transition: transform 0.5s  ease-in;
+}
+
+.sidebar.collapsed .recent{
+    transform: translateX(-100px);
+    opacity: 0;
+}
+
+.sidebar.extended .recent{
+    transform: translateX(0);
+}
+
+
+.sidebar.extended{
+    animation: openn 0.5s ease-in-out;
+    width: 200px;
+    background: -webkit-linear-gradient(96deg,#131c2c,#2427a0);
+}
+
+.sidebar.collapsed{
+    animation: close 0.5s ease-in-out;
+    width: 120px;
+    background: -webkit-linear-gradient(96deg,#131c2c,#2427a0);
+    /* background-color: white; */
+}
+
+.buttons{
+    margin-top: 15px;
+    margin-right: 15px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 20px; /* Default spacing between buttons */
+    transition: gap 0.5s ease-in-out; /* Smooth spacing transition */
+}
+
+.buttons.collapsed{
+    gap: 10px;
+}
+
+.buttons.extended{
+    gap: 90px;
+}
+
+.sidebar img {
+	width: 30px;
+}
+
+/* .sidebar.collapsed img {
+    filter: brightness(0.6); /* Lightens the image slightly on hover */
+/* }
+
+/* .sidebar.collapsed img:hover{
+    filter: brightness(0.3); /* Lightens the image slightly on hover */
+/* } */
+
+.sidebar .recent{
+    display: flex;
+    flex-direction: column;
+    animation: fadeIn 1.0s;
+    height: 100%;
+}
+.sidebar .recent-title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #e2e6eb;
+}
+.sidebar .recent-entry{
+    display: flex;
+    align-items: start;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 50px;
+    cursor: pointer; 
+}
+
+.sidebar.extended .recent-entry{
+    color: #e2e6eb;
+}
+
+.sidebar.extended .recent-entry:hover{
+    background-color: #3535ee;
+    color: white;
+}
+
+.sidebar .bottom{
+    display: flex;
+    flex-direction: column;
+}
+.sidebar.extended .bottom-item{
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+@media (max-width:600px){
+    .sidebar{
+        display: none;
+    }
+}
+
+
+
+
+/* Popup wrapper */
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Popup overlay to close the form */
+  .popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    background: rgba(0, 0, 0, 0.5);
+}
+  
+  /* Popup form container */
+  .popup-form {
+    background: rgba(255, 255, 255, 1); 
+    min-height: 100px;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Light shadow for subtle depth */
+    max-width: 500px;
+    width: 90%; /* Responsive width */
+    overflow: scroll;
+    z-index: 1001;
+    animation: slideDown 0.3s ease-in-out; /* Smooth entrance animation */
+
+  }
+  
+  /* Animation for the form */
+  @keyframes slideDown {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+
+/* Form styling */
+.custom-form {
+  font-family: Arial, sans-serif;
+}
+
+.custom-form h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+
+.custom-form label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #555;
+}
+
+.custom-form input,
+.custom-form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #333;
+  background-color: #f9f9f9;
+  box-sizing: border-box;
+  transition: border-color 0.3s ease;
+}
+
+.custom-form input:focus,
+.custom-form textarea:focus {
+  outline: none;
+  border-color: #007bff;
+  background-color: #fff;
+  overflow-y: scroll;
+}
+
+.custom-form button {
+  width: 100%;
+  padding: 12px;
+  background: -webkit-linear-gradient(96deg,#315aa0,#4d4feb);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}

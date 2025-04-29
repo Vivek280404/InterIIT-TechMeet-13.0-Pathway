@@ -1,0 +1,8 @@
+langchain-community
+PyPDF
+ragas==0.2.3
+langchain_openai
+pandas
+PyPDF2
+langchain-text-splitters
+langchain-google-genai
