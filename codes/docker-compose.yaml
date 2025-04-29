@@ -1,0 +1,25 @@
+services:
+  pipeline:
+    tty: true
+    build:
+      context: .
+      dockerfile: pipeline.dockerfile
+    container_name: pipeline
+    hostname: pathway
+    network_mode: host
+  pathway_rag:
+    tty: true
+    build:
+      context: .
+      dockerfile: pathway_rag.dockerfile
+    container_name: rag
+    hostname: pathway
+    network_mode: host
+  app:
+    tty: true
+    build:
+      context: .
+      dockerfile: app.dockerfile
+    container_name: app
+    hostname: pathway
+    network_mode: host
